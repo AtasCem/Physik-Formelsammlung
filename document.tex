@@ -4,6 +4,8 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{tikz}
 \usepackage{xcolor}
 \usepackage{geometry}
 \usepackage{ragged2e}
@@ -1236,7 +1238,7 @@
 }
 
 \begin{displayformula}
-	Harmonische Wellenfunktion
+	Lösung der harmonischen Wellenfunktion
 	\[
 	y(z, t) = A \cdot \cos(\omega t - kz + \delta)
 	\]
@@ -1247,5 +1249,179 @@
 \formulalegend{
 	\( y(z,t) \): Auslenkung [m], \( A \): Amplitude [m], \( \omega \): Kreisfrequenz [rad/s], \( k \): Wellenzahl [rad/m], \( \delta \): Phase [rad], \( \lambda \): Wellenlänge [m], \( T \): Periodendauer [s], \( \nu \): Frequenz [Hz], \( c \): Ausbreitungsgeschwindigkeit [m/s]
 }
+
+\newpage
+\begin{displayformula}
+	Phasengeschwindigkeit verschiedener Wellen \\ 
+	Seilwellen
+	\[
+	c = \sqrt{\frac{F_s}{\mu}}
+	\]
+	Elektromagnetische Wellen im Vakuum
+	\[
+	c = \frac{1}{\sqrt{\epsilon_0 \mu_0}}
+	\]
+	Elektromagnetische Wellen in Materie
+	\[
+	c = \frac{1}{\sqrt{\epsilon_r \epsilon_0 \mu_r \mu_0}}
+	\]
+\end{displayformula}
+\formulalegend{
+	\( c \): Phasengeschwindigkeit [m/s], 
+	\( F_s \): Spannkraft im Seil [N], 
+	\( \mu \): lineare Massendichte [kg/m], 
+	\( \epsilon_0 \): elektrische Feldkonstante (Permittivität des Vakuums) [F/m], 
+	\( \mu_0 \): magnetische Feldkonstante (Permeabilität des Vakuums) [H/m], 
+	\( \epsilon_r \): relative Permittivität, 
+	\( \mu_r \): relative Permeabilität
+}
+\newpage
+\subsection{Wellen in drei Dimensionen}
+\begin{displayformula}
+	Intensität:
+	\[
+	I(z) = \frac{\text{zeitlich gemittelte Lieistung}}{\text{senkrecht zur Ausbreitung stehende Fläche}} = \frac{P_t}{A} = \text{const.}
+	\]
+	Kreiswellen
+	\[
+	I(r) = \frac{I_0r_0}{r}
+	\]
+	Kugelwellen
+	\[
+	I(r) = \frac{I_0r_0^2}{r^2} = \frac{P_t}{4\pi r^2}
+	\]
+\end{displayformula}
+\formulalegend{
+	\( I(z), I(r) \): Intensität [W/m\(^2\)], 
+	\( P_t \): zeitlich gemittelte Leistung [W], 
+	\( A \): Fläche senkrecht zur Ausbreitungsrichtung [m\(^2\)], 
+	\( I_0 \): Referenzintensität in Abstand \( r_0 \) [W/m\(^2\)], 
+	\( r, r_0 \): Abstand zur Quelle bzw. Referenzabstand [m]
+}
+
+\begin{displayformula}
+	Messung der Schallintensität
+	\[
+	I_p = 10\log \frac{I}{I_0} \text{dB}
+	\]
+\end{displayformula}
+\formulalegend{
+	$I_p$: Schalldruckpegel [dB], 
+	$I$: gemessene Schallintensität [W/m$^2$], 
+	$I_0$: Bezugsintensität, meist $10^{-12}$ W/m$^2$
+}
+
+\newpage
+
+\subsection{Der Doppler-Effekt}
+
+\begin{displayformula}
+	Fall 1: Empfänger bewegt sich relativ zu einer still stehenden Quelle
+	\[
+	\nu_E = \nu_0 (1 \textcolor{blue}{+} / \textcolor{red}{-} \frac{V_E}{c})
+	\]
+	\textcolor{blue}{Hinbewegung} \\
+	\textcolor{red}{Wegbewegung}
+\end{displayformula}
+
+\begin{displayformula}
+	Fall 2: Quelle bewegt sich relativ zu einem still stehenden Empfänger
+	\[
+	\nu_E = \nu_0 \frac{1}{1 \textcolor{red}{-} / \textcolor{blue}{+} \frac{V_Q}{c}}
+	\]
+	\textcolor{red}{Hinbewegung} \\
+	\textcolor{blue}{Wegbewegung}
+\end{displayformula}
+
+\begin{displayformula}
+	Fall 3: Quelle und Empfänger bewegen sich relativ zueinander
+	\[
+	\nu_E = \frac{1 \textcolor{red}{+} / \textcolor{blue}{-} \frac{V_E}{c}}{1 \textcolor{red}{-} / \textcolor{blue}{+} \frac{V_Q}{c}}
+	\]
+	\textcolor{red}{Hinbewegung} \\
+	\textcolor{blue}{Wegbewegung}
+\end{displayformula}
+
+\formulalegend{
+	$\nu_E$: Frequenz beim Empfänger [Hz], 
+	$\nu_0$: Frequenz der Quelle [Hz], 
+	$V_E$: Geschwindigkeit des Empfängers relativ zum Medium [m/s], 
+	$V_Q$: Geschwindigkeit der Quelle relativ zum Medium [m/s], 
+	$c$: Ausbreitungsgeschwindigkeit der Welle im Medium [m/s], 
+}
+
+\begin{displayformula}
+	Fall 4: Entstehung von Stoßwellen
+	\[
+	\sin \theta = \frac{c}{V_Q} = \frac{1}{\text{Ma}}
+	\]
+\end{displayformula}
+
+\section{Überlagerung von Wellen}
+
+\subsection{Überlagerung von zwei Wellen mit gleicher Wellenzahl und Frequenz}
+\begin{displayformula}
+\[
+y_1 = A \cos (kz - \omega t)
+\]
+\[
+y_2 = A \cos (kz - \omega t + \delta)
+\]
+\[
+y = y_1 + y_2
+\]
+\[
+y = 2 A \cos (\frac{1}{2} \delta) \cos (kz - \omega t + \frac{1}{2} \delta)
+\]
+\end{displayformula}
+Der erste Teil der Formel ($2A \cos (\frac{1}{2} \delta$) stellt die resultierende Amplitude $A_{res}$ dar. \\
+Der Zweite Teil der Formel ($\cos (kz - \omega t + \frac{1}{2} \delta)$) beschreibt die, sich in Z-Richtung ausbreitende Welle
+
+\begin{displayformula}
+	Gangunterschied
+	\[
+	\Delta z = \frac{\delta}{2 \pi} \lambda
+	\]
+	
+	\[
+	\Delta z = z_2 - z_1
+	\]
+\end{displayformula}
+Der Gangunterschied stellt anschaulich den räumlichen Versatz der beiden Wellen in Bezug auf die Wellenlänge $\lambda$ dar
+\formulalegend{
+	$y_1$, $y_2$: Einzelne Wellenfunktionen, 
+	$y$: resultierende Welle, 
+	$A$: Amplitude der Einzelsignale, 
+	$A_{\text{res}} = 2A \cos(\frac{1}{2}\delta)$: resultierende Amplitude, 
+	$k$: Wellenzahl, $k = \frac{2\pi}{\lambda}$ [$\text{rad}/\text{m}$], 
+	$\omega$: Kreisfrequenz, $\omega = 2\pi f$ [$\text{rad}/\text{s}$], 
+	$f$: Frequenz [Hz], 
+	$\delta$: Phasendifferenz [rad], 
+	$\lambda$: Wellenlänge [m], 
+	$\Delta z$: Gangunterschied [m], 
+	$z_1$, $z_2$: Orte der beiden Wellenfronten
+}
+
+
+\newpage
+\subsection{Interferenzbedingungen}
+
+\textbf{Konstruktive Interferenz}
+
+\begin{itemize}
+	\item \textbf{Phasenkonstante:} $\delta = 0,\ \pm 2\pi,\ \pm 4\pi,\ \dots$
+	\item \textbf{Gangunterschied:} $\Delta z = 0,\ \pm \lambda,\ \pm 2\lambda,\ \dots$
+	\item \textbf{Ergebnis:} Verstärkung der Wellen (Maxima überlagern sich)
+\end{itemize}
+
+\vspace{1ex}
+
+\textbf{Destruktive Interferenz}
+
+\begin{itemize}
+	\item \textbf{Phasenkonstante:} $\delta = \pm \pi,\ \pm 3\pi,\ \pm 5\pi,\ \dots$
+	\item \textbf{Gangunterschied:} $\Delta z = \pm \frac{\lambda}{2},\ \pm \frac{3\lambda}{2},\ \pm \frac{5\lambda}{2},\ \dots$
+	\item \textbf{Ergebnis:} Auslöschung der Wellen (Maxima und Minima überlagern sich)
+\end{itemize}
 
 \end{document}
