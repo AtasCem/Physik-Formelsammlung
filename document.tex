@@ -1,10 +1,11 @@
-\documentclass[a5paper,10pt]{article}
+\documentclass[a4paper,10pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{booktabs}
+\usepackage{etoolbox}
 \usepackage{tikz}
 \usepackage{xcolor}
 \usepackage{geometry}
@@ -13,14 +14,22 @@
 \usepackage{framed}
 \usepackage{graphicx}
 
+% Neue Geometrie-Einstellungen für A4
+\geometry{
+	a4paper,
+	margin=2.5cm,
+	top=3cm,
+	bottom=3cm,
+	headheight=1.5cm,
+	footskip=1.5cm
+}
 
-\geometry{a5paper, margin=2cm, top=2.5cm, bottom=2.5cm, headheight=1.5cm, footskip=1cm}
-
-
+% Farben definieren
 \definecolor{formulaColor}{RGB}{20,50,150}
 \definecolor{legendColor}{RGB}{60,60,60}
 \definecolor{formulabgcolor}{gray}{0.95}
 
+% Neue Umgebung für Formeln
 \newenvironment{displayformula}
 {
 	\begin{framed}
@@ -28,6 +37,7 @@
 	}
 	{\end{framed}}
 
+% Befehl für Formelerklärungen
 \newcommand{\formulalegend}[1]{%
 	\par\vspace{0.5ex}%
 	{{\color{legendColor}\RaggedRight\small\textit{#1}}}%
@@ -36,11 +46,39 @@
 
 \setcounter{tocdepth}{3}
 
+
 \begin{document}
 	\tableofcontents
-	\newpage
+	
 	
 	\section{Physikalische Größen und Einheiten}
+	
+	\subsection{Umrechnungen in SI-Einheiten}
+	
+	\begin{displayformula}
+		\[
+		\text{Kraft} F = kg \cdot \frac{m}{s^2} = N
+		\]
+		\[
+		\text{Arbeit} W = kg \cdot \frac{m}{s^2} \cdot m = kg \cdot \frac{m^2}{s^2} = J
+		\]
+		\[
+		\text{Leistung} P = \frac{kg \cdot m^2}{s^3} = W
+		\]
+		\[
+		\text{Spannung} U = \frac{kg \cdot m^2}{s^2 \cdot As} = \frac{kg \cdot m^2}{A \cdot s^3} = V
+		\]
+		\[
+		\text{Kapazität} C = \frac{A^2 \cdot s^4}{kg \cdot m^2} = \frac{C}{V} = \frac{As}{V} = F
+		\]
+		\[
+		\text{Geschwindigkeit} v = \frac{m}{s}
+		\]
+		\[
+		\text{Beschleunigung} a = \frac{m}{s^2}
+		\]
+	\end{displayformula}
+	
 	
 	\subsection{Messunsicherheit Typ A}
 	
@@ -104,7 +142,7 @@
 		\( U_\text{mess} \): Gesamte kombinierte Unsicherheit, \( U_A(x) \): Unsicherheit Typ A, \( U_{B_i}(x) \): Unsicherheit Typ B
 	}
 	
-	\newpage
+	
 	
 \section{Verschiebung, Geschwindigkeit und \\Geschwindigkeitsbetrag}
 
@@ -138,7 +176,7 @@
 	\( v_x \): Momentangeschwindigkeit [m/s], \( x \): Position [m], \( t \): Zeit [s], \( \dot{x}(t) \): Ableitung von \( x(t) \) nach der Zeit
 }
 
-\newpage
+
 
 \section{Gleichförmig beschleunigte Bewegung}
 
@@ -162,7 +200,7 @@
 	\( \bar{a}_x \): Mittlere Beschleunigung [m/s²], \( v_{xE} \): Endgeschwindigkeit [m/s], \( v_{xA} \): Anfangsgeschwindigkeit [m/s], \( \Delta t \): Zeit [s]
 }
 
-\newpage
+
 
 \section{Gleichmäßig beschleunigte Bewegung}
 
@@ -247,7 +285,7 @@
 \formulalegend{
 	\( \vec{r}(t) \): Ortsvektor [m], \( x_0, y_0, z_0 \): Anfangskoordinaten [m], \( v_{x0}, v_{y0}, v_{z0} \): Anfangsgeschwindigkeiten [m/s], \( a_x, a_y, a_z \): Beschleunigungen [m/s²], \( t \): Zeit [s]
 }
-\newpage
+
 
 \subsection{Der schräge Wurf}
 
@@ -286,7 +324,7 @@
 \formulalegend{
 	\( y(x) \): Höhe in Abhängigkeit vom horizontalen Ort \( x \) [m], \( y_0 \): Anfangshöhe [m], \( v_0 \): Anfangsgeschwindigkeit [m/s], \( \alpha \): Winkel, \( g \): Erdbeschleunigung [m/s²], \( x \): horizontale Entfernung [m]
 }
-\newpage
+
 
 
 \section{Die Newtonschen Axiome}
@@ -366,7 +404,7 @@
 \formulalegend{
 	\( \vec{F}_{12} \): Kraft von Körper 1 auf 2 [N], \( \vec{F}_{21} \): Gegenkraft von 2 auf 1 [N]
 }
-\newpage
+
 
 
 \section{Kontaktkräfte und weitere Arten von Kräften}
@@ -451,7 +489,7 @@
 \formulalegend{
 	\( F_W \): Luftwiderstand [N], \( c_W \): Widerstandsbeiwert, \( \rho \): Dichte der Luft [kg/m³], \( A \): Querschnittsfläche [m²], \( v \): Geschwindigkeit [m/s], \( b \): Reibungskoeffizient [kg/m]
 }
-\newpage
+
 
 \subsection{Trägheits- und Scheinkräfte}
 
@@ -487,7 +525,7 @@
 \formulalegend{
 	\( \vec{F}_{\mathrm{Cor}} \): Corioliskraft [N], \( m \): Masse [kg], \( \vec{v} \): Geschwindigkeit [m/s], \( \vec{\omega} \): \\ Winkelgeschwindigkeit [rad/s]
 }
-\newpage
+
 
 \section{Der Massenmittelpunkt}
 
@@ -543,7 +581,7 @@
 \formulalegend{
 	\( X_S \): Massenmittelpunkt [m], \( \vec{r} \): Ortselement [m], \( m_{\text{ges}} \): Gesamtmasse [kg]
 }
-\newpage
+
 
 
 \section{Arbeit und kinetische Energie}
@@ -599,7 +637,7 @@
 \formulalegend{
 	\( W_{\text{ges}} \): Gesamtarbeit über geschlossene Bahn [J], \( \vec{F} \): Kraft [N], \( d\vec{s} \): Wegdifferenzial [m]
 }
-\newpage
+
 \section{Verrichtete Arbeit bei geradliniger Bewegung mit ortsabhängiger Kraft}
 
 \begin{displayformula}
@@ -621,7 +659,7 @@
 \formulalegend{
 	\( W \): Arbeit [J], \( F(s) \): ortsabhängige Kraft [N], \( s \): Weg [m]
 }
-\newpage
+
 
 \section{Leistung}
 
@@ -640,7 +678,7 @@
 \formulalegend{
 	\( P \): Leistung [W], \( \vec{F} \): Kraft [N], \( \vec{v} \): Geschwindigkeit [m/s], \( t \): Zeit [s]
 }
-\newpage
+
 \section{Energieerhaltung}
 
 \begin{displayformula}
@@ -665,7 +703,7 @@
 \formulalegend{
 	\( E_{\text{ges}} \): Gesamte mechanische Energie [J], \( E_{\text{Pot}} \): Potentielle Energie [J], \( E_{\text{Kin}} \): Kinetische Energie [J], \( m \): Masse [kg], \( g \): Erdbeschleunigung [m/s²], \( h \): Höhe [m], \( v \): Geschwindigkeit [m/s]
 }
-\newpage
+
 \section{Impuls und Impulserhaltung}
 
 \begin{displayformula}
@@ -687,7 +725,7 @@
 \formulalegend{
 	\( \vec{p}_{\text{ges}} \): Gesamtimpuls [kg·m/s], \( m_i \): Massen [kg], \( \vec{v}_i \): Geschwindigkeiten [m/s], \( \vec{F}_{\text{ext}} \): äußere Kraft [N]
 }
-\newpage
+
 \section{Stoßprozesse}
 
 \begin{displayformula}
@@ -718,7 +756,7 @@
 \formulalegend{
 	Alle kinetische Energie geht in andere Energieformen über (z.\,B. Wärme, Verformung)
 }
-\newpage
+
 \subsubsection{Gerader, zentraler, elastischer Stoß, zweite Kugel in Ruhe}
 
 \begin{displayformula}
@@ -753,7 +791,7 @@
 \formulalegend{
 	\( v_1', v_2' \): Endgeschwindigkeiten nach dem Stoß [m/s], \( m_1, m_2 \): Massen [kg], \( v_1, v_2 \): Anfangsgeschwindigkeiten [m/s]
 }
-\newpage
+
 \section{Drehbewegungen}
 
 \begin{displayformula}
@@ -831,7 +869,7 @@
 \formulalegend{
 	\( \varphi(t) \): Winkel [rad], \( \varphi_0 \): Anfangswinkel [rad], \( \omega \): Anfangswinkelgeschwindigkeit [rad/s], \( \alpha \): konstante Winkelbeschleunigung [rad/s²], \( t \): Zeit [s]
 }
-\newpage
+
 \begin{displayformula}
 	\[
 	\omega^2 = \omega_0^2 + 2\alpha \Delta\varphi
@@ -857,13 +895,13 @@
 \formulalegend{
 	\( E_{\text{kin}} \): Rotationsenergie [J], \( m_i \): Masse [kg], \( r_i \): Abstand zur Drehachse [m], \( \omega \): Winkelgeschwindigkeit [rad/s], \( I \): Trägheitsmoment [kg·m²]
 }
-\newpage
-\begin{figure}[h]
+
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=\linewidth]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf}
 	\label{fig:beispiel}
 \end{figure}
-\newpage
+
 \section{Massenträgheitsmomente}
 
 \begin{displayformula}
@@ -951,7 +989,7 @@
 \formulalegend{
 	\( E_{\text{kin}} \): Kinetische Energie der Rotation [J], \( I_s \): Trägheitsmoment um Schwerpunktachse [kg·m²], \( I_p \): Trägheitsmoment um Parallelachse [kg·m²], \( m \): Masse [kg], \( r \): Abstand der Achsen [m], \( \omega \): Winkelgeschwindigkeit [rad/s]
 }
-\newpage
+
 \section{Das zweite Newtonsche Axiom für Drehbewegungen}
 
 \begin{displayformula}
@@ -982,7 +1020,7 @@
 \formulalegend{
 	\( a_t \): Tangentialbeschleunigung [m/s²], \( \vec{\alpha} \): Winkelbeschleunigung [rad/s²], \( \vec{r} \): Radiusvektor [m], \( \vec{F} \): Kraft [N], \( m \): Masse [kg]
 }
-\newpage
+
 \subsection{Statisches Gleichgewicht}
 
 \begin{displayformula}
@@ -997,7 +1035,7 @@
 	Statische Bedingungen: keine Beschleunigung, keine Winkelbeschleunigung. Kräfte- und Momentengleichgewicht.\\
 	\( \vec{F} \): resultierende Kraft [N], \( \vec{a} \): Beschleunigung [m/s²], \( \vec{M} \): Drehmoment [Nm], \( \vec{\alpha} \): Winkelbeschleunigung [rad/s²]
 }
-\newpage
+
 \subsection{Die kinetische Energie rollender Körper}
 
 \begin{displayformula}
@@ -1026,7 +1064,7 @@
 \formulalegend{
 	\( E_{\text{pot}} \): Potentielle Energie [J], \( v_x \): Geschwindigkeit [m/s], \( g \): Erdbeschleunigung [m/s²], \( x \): zurückgelegte Strecke [m], \( \beta \): Neigungswinkel [rad], \( a \): Beschleunigung [m/s²]
 }
-\newpage
+
 \section{Drehimpuls und Drehimpulserhaltung}
 
 \begin{displayformula}
@@ -1051,7 +1089,7 @@
 \formulalegend{
 	\( \vec{L}_{\text{ges}} \): Gesamtdrehimpuls [kg·m²/s], \( \vec{M}_{\text{ges}} \): Summe der äußeren Drehmomente [Nm]
 }
-\newpage
+
 \section{Schwingungen}
 
 \subsection{Ungedämpfte, freie und harmonische Schwingungen}
@@ -1151,7 +1189,7 @@
 \formulalegend{
 	\( Q(t) \): Ladung [C], \( L \): Induktivität [H], \( C \): Kapazität [F], \( \omega_0 \): Kreisfrequenz [rad/s]
 }
-\newpage
+
 
 \subsection{Gedämpfte Schwingungen}
 
@@ -1185,12 +1223,12 @@
 \formulalegend{
 	\( \lambda \): Eigenwerte, \( \delta \): Abklingkonstante [1/s], \( \omega_0 \): Kreisfrequenz [rad/s]
 }
-\newpage
-\begin{figure}[h]
+
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=\linewidth]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf}
 \end{figure}
-\newpage
+
 \subsection{Energie des gedämpften Oszillators}
 
 \begin{displayformula}
@@ -1224,7 +1262,7 @@
 \formulalegend{
 	\( Q \): Gütefaktor, \( D \): Dämpfungsgrad, \( \omega_0 \): Kreisfrequenz [rad/s], \( m \): Masse [kg], \( b \): Dämpfungskonstante [kg/s]
 }
-\newpage
+
 \section{Wellen}
 
 \begin{displayformula}
@@ -1250,7 +1288,7 @@
 	\( y(z,t) \): Auslenkung [m], \( A \): Amplitude [m], \( \omega \): Kreisfrequenz [rad/s], \( k \): Wellenzahl [rad/m], \( \delta \): Phase [rad], \( \lambda \): Wellenlänge [m], \( T \): Periodendauer [s], \( \nu \): Frequenz [Hz], \( c \): Ausbreitungsgeschwindigkeit [m/s]
 }
 
-\newpage
+
 \begin{displayformula}
 	Phasengeschwindigkeit verschiedener Wellen \\ 
 	Seilwellen
@@ -1275,7 +1313,7 @@
 	\( \epsilon_r \): relative Permittivität, 
 	\( \mu_r \): relative Permeabilität
 }
-\newpage
+
 \subsection{Wellen in drei Dimensionen}
 \begin{displayformula}
 	Intensität:
@@ -1311,7 +1349,7 @@
 	$I_0$: Bezugsintensität, meist $10^{-12}$ W/m$^2$
 }
 
-\newpage
+
 
 \subsection{Der Doppler-Effekt}
 
@@ -1403,7 +1441,7 @@ Der Gangunterschied stellt anschaulich den räumlichen Versatz der beiden Wellen
 }
 
 
-\newpage
+
 \subsection{Interferenzbedingungen}
 
 \textbf{Konstruktive Interferenz}
