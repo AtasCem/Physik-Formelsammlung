@@ -8,35 +8,36 @@
 \contentsline {section}{\numberline {4}Gleichmäßig beschleunigte Bewegung}{4}{}%
 \contentsline {section}{\numberline {5}Bewegung in zwei und drei Dimensionen}{4}{}%
 \contentsline {subsection}{\numberline {5.1}Der schräge Wurf}{5}{}%
-\contentsline {section}{\numberline {6}Die Newtonschen Axiome}{5}{}%
+\contentsline {section}{\numberline {6}Die Newtonschen Axiome}{6}{}%
 \contentsline {subsection}{\numberline {6.1}Das erste Newtonsche Axiom: Das Trägheitsgesetz}{6}{}%
 \contentsline {subsection}{\numberline {6.2}Das zweite Newtonsche Axiom}{6}{}%
-\contentsline {subsection}{\numberline {6.3}Das dritte Newtonsche Axiom}{6}{}%
+\contentsline {subsection}{\numberline {6.3}Das dritte Newtonsche Axiom}{7}{}%
 \contentsline {section}{\numberline {7}Kontaktkräfte und weitere Arten von Kräften}{7}{}%
 \contentsline {subsection}{\numberline {7.1}Trägheits- und Scheinkräfte}{8}{}%
-\contentsline {section}{\numberline {8}Der Massenmittelpunkt}{8}{}%
+\contentsline {section}{\numberline {8}Der Massenmittelpunkt}{9}{}%
 \contentsline {section}{\numberline {9}Arbeit und kinetische Energie}{9}{}%
 \contentsline {section}{\numberline {10}Verrichtete Arbeit bei geradliniger Bewegung mit ortsabhängiger Kraft}{10}{}%
-\contentsline {section}{\numberline {11}Leistung}{10}{}%
+\contentsline {section}{\numberline {11}Leistung}{11}{}%
 \contentsline {section}{\numberline {12}Energieerhaltung}{11}{}%
 \contentsline {section}{\numberline {13}Impuls und Impulserhaltung}{11}{}%
-\contentsline {section}{\numberline {14}Stoßprozesse}{11}{}%
+\contentsline {section}{\numberline {14}Stoßprozesse}{12}{}%
 \contentsline {subsubsection}{\numberline {14.0.1}Gerader, zentraler, elastischer Stoß, zweite Kugel in Ruhe}{12}{}%
-\contentsline {section}{\numberline {15}Drehbewegungen}{12}{}%
-\contentsline {subsection}{\numberline {15.1}Die Kinetische Energie der Drehbewegung}{14}{}%
-\contentsline {section}{\numberline {16}Massenträgheitsmomente}{14}{}%
-\contentsline {section}{\numberline {17}Das zweite Newtonsche Axiom für Drehbewegungen}{16}{}%
-\contentsline {subsection}{\numberline {17.1}Statisches Gleichgewicht}{17}{}%
-\contentsline {subsection}{\numberline {17.2}Die kinetische Energie rollender Körper}{17}{}%
-\contentsline {section}{\numberline {18}Drehimpuls und Drehimpulserhaltung}{17}{}%
-\contentsline {section}{\numberline {19}Schwingungen}{18}{}%
-\contentsline {subsection}{\numberline {19.1}Ungedämpfte, freie und harmonische Schwingungen}{18}{}%
-\contentsline {subsection}{\numberline {19.2}Gedämpfte Schwingungen}{19}{}%
-\contentsline {subsection}{\numberline {19.3}Energie des gedämpften Oszillators}{20}{}%
-\contentsline {subsection}{\numberline {19.4}Güte}{21}{}%
-\contentsline {section}{\numberline {20}Wellen}{21}{}%
-\contentsline {subsection}{\numberline {20.1}Wellen in drei Dimensionen}{22}{}%
-\contentsline {subsection}{\numberline {20.2}Der Doppler-Effekt}{22}{}%
-\contentsline {section}{\numberline {21}Überlagerung von Wellen}{23}{}%
-\contentsline {subsection}{\numberline {21.1}Überlagerung von zwei Wellen mit gleicher Wellenzahl und Frequenz}{23}{}%
-\contentsline {subsection}{\numberline {21.2}Interferenzbedingungen}{23}{}%
+\contentsline {subsection}{\numberline {14.1}Schiefer, zentraler, elastischer Stoß, die zweite Kugel ist in Ruhe}{13}{}%
+\contentsline {section}{\numberline {15}Drehbewegungen}{13}{}%
+\contentsline {subsection}{\numberline {15.1}Die Kinetische Energie der Drehbewegung}{15}{}%
+\contentsline {section}{\numberline {16}Massenträgheitsmomente}{15}{}%
+\contentsline {section}{\numberline {17}Das zweite Newtonsche Axiom für Drehbewegungen}{17}{}%
+\contentsline {subsection}{\numberline {17.1}Statisches Gleichgewicht}{18}{}%
+\contentsline {subsection}{\numberline {17.2}Die kinetische Energie rollender Körper}{18}{}%
+\contentsline {section}{\numberline {18}Drehimpuls und Drehimpulserhaltung}{18}{}%
+\contentsline {section}{\numberline {19}Schwingungen}{19}{}%
+\contentsline {subsection}{\numberline {19.1}Ungedämpfte, freie und harmonische Schwingungen}{19}{}%
+\contentsline {subsection}{\numberline {19.2}Gedämpfte Schwingungen}{20}{}%
+\contentsline {subsection}{\numberline {19.3}Energie des gedämpften Oszillators}{21}{}%
+\contentsline {subsection}{\numberline {19.4}Güte}{22}{}%
+\contentsline {section}{\numberline {20}Wellen}{22}{}%
+\contentsline {subsection}{\numberline {20.1}Wellen in drei Dimensionen}{23}{}%
+\contentsline {subsection}{\numberline {20.2}Der Doppler-Effekt}{23}{}%
+\contentsline {section}{\numberline {21}Überlagerung von Wellen}{24}{}%
+\contentsline {subsection}{\numberline {21.1}Überlagerung von zwei Wellen mit gleicher Wellenzahl und Frequenz}{24}{}%
+\contentsline {subsection}{\numberline {21.2}Interferenzbedingungen}{24}{}%

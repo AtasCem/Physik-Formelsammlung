@@ -142,6 +142,12 @@
 		\( U_\text{mess} \): Gesamte kombinierte Unsicherheit, \( U_A(x) \): Unsicherheit Typ A, \( U_{B_i}(x) \): Unsicherheit Typ B
 	}
 	
+	\begin{displayformula}
+		Bei Abhängigkeit mehrerer Größen (z.B. Volumen = abc)
+		\[
+		u_{ges} = \sqrt{(\frac{\partial_z}{\partial_a} \cdot \Delta a)^2 + (\frac{\partial_z}{\partial_b} \cdot \Delta b)^2 + (\frac{\partial_z}{\partial_c} \cdot \Delta c)^2 }
+		\]
+	\end{displayformula}
 	
 	
 \section{Verschiebung, Geschwindigkeit und \\Geschwindigkeitsbetrag}
@@ -193,7 +199,7 @@
 \begin{displayformula}
 	Die mittlere Beschleunigung \( \bar{a}_x \) ist definiert als Änderung der Geschwindigkeit \( v_x \) pro Zeiteinheit \( \Delta t \):
 	\[
-	\bar{a}_x = \frac{v_{xE} - v_{xA}}{\Delta t}
+	\bar{a}_x = \frac{v_{xE} - v_{xA}}{\Delta t} = \frac{\Delta v_x}{\Delta t}
 	\]
 \end{displayformula}
 \formulalegend{
@@ -341,9 +347,11 @@
 \subsection{Das erste Newtonsche Axiom: Das Trägheitsgesetz}
 
 \begin{displayformula}
+	Ein Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter Geschwindigkeit weiter, wenn keine resultierende Kraft auf ihn wirkt
 	\[
 	\vec{a} = 0 \quad \text{falls} \quad \vec{F} = 0
 	\]
+	Sie gelten nur in Inertialsystemen (Jedes Bezugssystem, in dem ein Kräftefreier Körper in Ruhe bleibt, ist ein Inertialsystem)
 \end{displayformula}
 \formulalegend{
 	\( \vec{a} \): Beschleunigung [m/s²], \( \vec{F} \): resultierende Kraft [N]
@@ -368,7 +376,7 @@
 
 \begin{displayformula}
 	\[
-	\sum_{i} \vec{F}_i = m \cdot \vec{a}
+	\vec{F}_{res} = \sum_{i} \vec{F}_i = m \cdot \vec{a}
 	\]
 \end{displayformula}
 \formulalegend{
@@ -376,6 +384,7 @@
 }
 
 \begin{displayformula}
+	Eine über Zeit veränderliche Masse (z.B. Rakete)
 	\[
 	m = \frac{m_{\text{Ruhe}}}{\sqrt{1 - \frac{v^2}{c^2}}}
 	\]
@@ -391,7 +400,7 @@
 	\]
 \end{displayformula}
 \formulalegend{
-	\( F_G \): Gravitationskraft [N], \( G \): Gravitationskonstante [m³/kg·s²], \( m_1, m_2 \): Massen der Körper [kg], \( r \): Abstand [m]
+	\( F_G \): Gravitationskraft [N], \( G \): Gravitationskonstante $G = 6,67430 \cdot 10^{-11}$[m³/kg·s²], \( m_1, m_2 \): Massen der Körper [kg], \( r \): Abstand [m]
 }
 
 \subsection{Das dritte Newtonsche Axiom}
@@ -414,16 +423,18 @@
 	\[
 	F_G = m \cdot g
 	\]
+	Greift Immer am Schwerpunkt!!
 \end{displayformula}
 \formulalegend{
 	\( F_G \): Gewichtskraft [N], \( m \): Masse [kg], \( g \): Erdbeschleunigung [m/s²]
 }
 
 \begin{displayformula}
-	Normalkraft \( F_N \) (Immer senkrecht zum Untergrund)
+	Normalkraft \( F_N \) 
 	\[
 	F_N = F_G
 	\]
+	Immer senkrecht zu einem Untergrund gerichtet. Sie kann entweder in gleiche oder entgegengesetzte Richtung der Gewichtskraft $F_G$ eingezeichnet werden
 \end{displayformula}
 \formulalegend{
 	\( F_N \): Normalkraft [N], \( F_G \): Gewichtskraft [N]
@@ -434,6 +445,7 @@
 	\[
 	F_R = \mu \cdot F_N
 	\]
+	Wirkt eine Kraft F auf einen Körper mit der Gewichtskraft $F_G$ parallel zum Untergrund, so entsteht entgegen dieser Kraft F eine Reibungskraft. 
 \end{displayformula}
 \formulalegend{
 	\( F_R \): Reibungskraft [N], \( \mu \): Reibungskoeffizient, \( F_N \): Normalkraft [N]
@@ -448,6 +460,7 @@
 	\[
 	F_N = m \cdot g \cdot \cos\alpha
 	\]
+	Diese Aufgaben mit Kräftezerlegung lösen: Wirklinien von $F_H$ und $F_N$ einzeichnen und ein Kräfteparallelogramm bilden. Anschließend über trigonometrische Zusammenhänge lösen.
 \end{displayformula}
 \formulalegend{
 	\( F_H \): Hangabtriebskraft [N], \( F_N \): Normalkraft [N], \( m \): Masse [kg], \( g \): Erdbeschleunigung [m/s²], \( \alpha \): Neigungswinkel
@@ -516,14 +529,15 @@
 \begin{displayformula}
 	Corioliskraft
 	\[
-	\vec{F}_{\mathrm{Cor}} = 2m\, \vec{v} \times \vec{\omega} = 2m\, \lVert \vec{v} \rVert \lVert \vec{\omega} \rVert \sin(\vec{v}; \vec{\omega})
+	\vec{F}_{\mathrm{Cor}} = 2m\, \vec{v} \times \vec{\omega} = 2m\, | \vec{v} | | \vec{\omega} | \sin(\vec{v}; \vec{\omega})
 	\]
 	\[
 	\vec{a}_{\mathrm{Cor}} = 2 \cdot \vec{v}_0 \times \vec{\omega}
 	\]
+	Rechte Hand Regel: Daumen: $\vec{a}_{cor}$ Zeigefinger: $\vec{v}$ Mittelfinger: $\vec{\omega}$
 \end{displayformula}
 \formulalegend{
-	\( \vec{F}_{\mathrm{Cor}} \): Corioliskraft [N], \( m \): Masse [kg], \( \vec{v} \): Geschwindigkeit [m/s], \( \vec{\omega} \): \\ Winkelgeschwindigkeit [rad/s]
+	\( \vec{F}_{\mathrm{Cor}} \): Corioliskraft [N], \( m \): Masse [kg], \( \vec{v} \): Geschwindigkeit [m/s], \( \vec{\omega} \):  Winkelgeschwindigkeit [rad/s]
 }
 
 
@@ -596,7 +610,7 @@
 }
 
 \begin{displayformula}
-	Reibungsarbeit \( W_r \)
+	Reibungsarbeit \( W_r \) --> Wärmeengergie
 	\[
 	W_r = F_r \cdot \Delta x = \mu F_N \cdot \Delta x
 	\]
@@ -606,7 +620,7 @@
 }
 
 \begin{displayformula}
-	Hubarbeit \( W_H \)
+	Hubarbeit \( W_H \) --> Potentielle Energie
 	\[
 	W_H = m \cdot g \cdot h
 	\]
@@ -619,7 +633,7 @@
 }
 
 \begin{displayformula}
-	Beschleunigungsarbeit \( W_B \)
+	Beschleunigungsarbeit \( W_B \) --> kinetische Energie
 	\[
 	W_B = F_B \cdot \Delta x = m \cdot a \cdot \Delta x = \frac{1}{2} mv^2
 	\]
@@ -633,6 +647,7 @@
 	\[
 	W_{\text{ges}} = 0 = \oint \vec{F} \cdot d\vec{s}
 	\]
+	Konservative Kräfte sind Kräfte, die längs eines beliebeigen, geschlossenen Weges keine Arbeit verrrichten. An Teilstrecken aufgewendete Energie wird an anderen Strecken wieder zurückgewonnen.
 \end{displayformula}
 \formulalegend{
 	\( W_{\text{ges}} \): Gesamtarbeit über geschlossene Bahn [J], \( \vec{F} \): Kraft [N], \( d\vec{s} \): Wegdifferenzial [m]
@@ -699,6 +714,7 @@
 	\[
 	E_{\text{Kin}} = \frac{1}{2} \cdot m \cdot v^2
 	\]
+	Wenn an einem System keine äußeren Kräfte Arbeit verrichten und alle inneren Kräfte, die Arbeit verrichten, konstant sind, bleibt die mechanische Gesamtenergie eines abgeschlossenen Systems konstant.
 \end{displayformula}
 \formulalegend{
 	\( E_{\text{ges}} \): Gesamte mechanische Energie [J], \( E_{\text{Pot}} \): Potentielle Energie [J], \( E_{\text{Kin}} \): Kinetische Energie [J], \( m \): Masse [kg], \( g \): Erdbeschleunigung [m/s²], \( h \): Höhe [m], \( v \): Geschwindigkeit [m/s]
@@ -719,8 +735,9 @@
 \begin{displayformula}
 	Impulserhaltungssatz:
 	\[
-	\vec{p}_{\text{ges}} = \sum_i m_i \cdot \vec{v}_i = \text{konstant}, \quad \text{wenn } \vec{F}_{\text{ext}} = 0
+	 \sum_i m_i \cdot \vec{v}_i = \sum_i m_i \cdot \vec{v}_i ' \quad \text{wenn } \vec{F}_{\text{ext}} = 0
 	\]
+	Wenn die Summe aller äußeren Kräfte auf ein System null ist, bleibt der Gesamtimpuls des Systems konstant
 \end{displayformula}
 \formulalegend{
 	\( \vec{p}_{\text{ges}} \): Gesamtimpuls [kg·m/s], \( m_i \): Massen [kg], \( \vec{v}_i \): Geschwindigkeiten [m/s], \( \vec{F}_{\text{ext}} \): äußere Kraft [N]
@@ -733,6 +750,7 @@
 	\[
 	\sum_i \frac{1}{2} m_i v_{i,\text{vor}}^2 = \sum_i \frac{1}{2} m_i v_{i,\text{nach}}^2
 	\]
+	Gesamte kinetische Energie ist nach dem Stoß gleich groß, wie die gesamte kinetische Energie vor dem Stoß.
 \end{displayformula}
 \formulalegend{
 	\( m_i \): Masse [kg], \( v_{i,\text{vor}} \): Geschwindigkeit vor dem Stoß [m/s], \( v_{i,\text{nach}} \): Geschwindigkeit nach dem Stoß [m/s]
@@ -743,6 +761,7 @@
 	\[
 	\sum_i \frac{1}{2} m_i v_{i,\text{vor}}^2 = \sum_i \frac{1}{2} m_i v_{i,\text{nach}}^2 + \Delta W
 	\]
+	Ein Teil der kinetischen Energie geht vor dem Stoß in eine andere Energieform über.
 \end{displayformula}
 \formulalegend{
 	\( \Delta W \): Energieverlust [J], Rest wie oben
@@ -752,6 +771,7 @@
 	\[
 	\sum_i \frac{1}{2} m_i v_{i,\text{vor}}^2 = \Delta W
 	\]
+	Die Gesamtenergie geht vor dem Stoß in eine andere Energieform über
 \end{displayformula}
 \formulalegend{
 	Alle kinetische Energie geht in andere Energieformen über (z.\,B. Wärme, Verformung)
@@ -792,13 +812,40 @@
 	\( v_1', v_2' \): Endgeschwindigkeiten nach dem Stoß [m/s], \( m_1, m_2 \): Massen [kg], \( v_1, v_2 \): Anfangsgeschwindigkeiten [m/s]
 }
 
+\subsection{Schiefer, zentraler, elastischer Stoß, die zweite Kugel ist in Ruhe}
+
+\begin{displayformula}
+	Impulserhaltung in x- und y-Richtung aufteilen: \\
+	X-Richtung
+	\[
+	m_1v_{1x} = m_1v_{1x}' + m_2v_{2x}'
+	\]
+	\[
+	m_1v_{1x} = m_1v_1' \cos \Theta_1 + m_2v_2' \cos \Theta_2
+	\]
+	Y-Richtung:
+	\[
+	0 = m_1v_{1y}' + m2v_{2y}'
+	\]
+	\[
+	0 = m_1v_1' \sin \Theta_1  + m2v_2' \sin \Theta_2
+	\]
+	Da wir einen elastischen Stoß haben gilt der Energieerhaltungssatz:
+	\[
+		m_1 v_1^2 = m_1 v_1'^2 +  m_2 v_2'^2
+	\]
+	Nun haben wir 4 unbekannte aber 3 Gleichungen --> Es wird eine weitere Information benötigt (z.B. $m_1 = m_2$)
+\end{displayformula}
+
 \section{Drehbewegungen}
+
 
 \begin{displayformula}
 	Die Länge eines Kreisbogens \( s \) ergibt sich aus dem Zusammenhang:
 	\[
 	s = r \cdot \varphi 
 	\]
+	Bogenlänge $\Delta s$: Entspricht der zurückgelegten Strecke einer Bewegung auf einer gekrümmten Ortskurve --> Bei einer Kreisförmigen Bewegung errechnet sich die Bogenlänge in Abhängigkeit vom überstrichenen Winkel $\Delta \varphi = \varphi - \varphi_0$ zwischen zwei Punkten auf der Kreisbahn mit Radius r (Winkel im Bogenmaß)
 \end{displayformula}
 \formulalegend{
 	\( s \): Kreisbogenlänge [m], \( r \): Radius [m], \( \varphi \): Winkel im Bogenmaß [rad]
@@ -809,6 +856,7 @@
 	\[
 	\omega = \frac{d\varphi(t)}{dt} \quad \text{mit } [\omega] = \text{rad/s}
 	\]
+	Die Winkelgeschwindigkeit ist unabhängig vom Radius --> Auf einer rotierenden Scheibe besitzen alle Punkte dieselbe Winkelgeschwindigkeit.
 \end{displayformula}
 \formulalegend{
 	\( \omega \): Winkelgeschwindigkeit [rad/s], \( \varphi(t) \): Winkel [rad], \( t \): Zeit [s]
@@ -825,17 +873,23 @@
 }
 
 \begin{displayformula}
-	Bahngeschwindigkeit
+	Bahngeschwindigkeit (Tangentialgeschwindigkeit)
+	\[
+	v_t = \frac{\Delta s}{\Delta t}
+	\]
+	Bei einer ganzen Umdrehung mit Bogenlänge $\Delta s = r \cdot 2 \pi$ erhält man
 	\[
 	v_t = r \cdot \omega
 	\]
+	Bei einer Kreisbewegung mit konstanter Winkelgeschwindigkeit $\omega$ ist auch der Betrag der Tangentialbeschleunigung konstant \\
+	Eine Änderung von $v_t$ kann nur stattfinden, wenn eine Beschleunigung $a_{zp}$ dafür ursächlich ist
 \end{displayformula}
 \formulalegend{
 	\( v_t \): Bahngeschwindigkeit [m/s], \( r \): Radius [m], \( \omega \): Winkelgeschwindigkeit [rad/s]
 }
 
 \begin{displayformula}
-	Tangentialbeschleunigung
+	Tangentialbeschleunigung (Bahnbeschleunigung)
 	\[
 	a_t = r \cdot \alpha
 	\]
@@ -847,11 +901,11 @@
 \begin{displayformula}
 	Zentripetalbeschleunigung
 	\[
-	a_n = -r \cdot \omega^2 = - \frac{v_t^2}{r}
+	a_{zp} = -r \cdot \omega^2 = - \frac{v_t^2}{r}
 	\]
 \end{displayformula}
 \formulalegend{
-	\( a_n \): Zentripetalbeschleunigung [m/s²], \( r \): Radius [m], \( \omega \): Winkelgeschwindigkeit [rad/s], \( v_t \): Bahngeschwindigkeit [m/s]
+	\( a_{zp} \): Zentripetalbeschleunigung [m/s²], \( r \): Radius [m], \( \omega \): Winkelgeschwindigkeit [rad/s], \( v_t \): Bahngeschwindigkeit [m/s]
 }
 
 \begin{displayformula}
@@ -1039,6 +1093,8 @@
 \subsection{Die kinetische Energie rollender Körper}
 
 \begin{displayformula}
+	Ein rollender Körper besitzt sowohl kinetische Energie durch die Rotation, als auch kinetische Energie durch die Bewegung seines Schwerpunkts in Folge des Abrollens. \\ 
+	Gesamtenergie:
 	\[
 	E_{\text{kin}} = \frac{1}{2} I_S \omega^2 + \frac{1}{2} m v_S^2
 	\]

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  22 MAY 2025 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  22 MAY 2025 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -609,7 +609,7 @@ hung [Ein-heit wie $\OML/cmm/m/it/9 x[]$\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 N$\T
  []
 
 [3]
-Overfull \hbox (8.75862pt too wide) in paragraph at lines 201--201
+Overfull \hbox (8.75862pt too wide) in paragraph at lines 207--207
 [] $[]$\T1/cmr/m/it/9 : Mit-tlere Beschle-u-ni-gung [m/s\TS1/cmr/m/it/9 ²\T1/cm
 r/m/it/9 ], $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : Endgeschwindigkeit [m/s], $\O
 ML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeit [m/s], $\OT1/cmr/m/
@@ -617,7 +617,7 @@ n/9 ^^A\OML/cmm/m/it/9 t$\T1/cmr/m/it/9 : Zeit
  []
 
 
-Overfull \hbox (8.75171pt too wide) in paragraph at lines 220--220
+Overfull \hbox (8.75171pt too wide) in paragraph at lines 226--226
  $\OML/cmm/m/it/9 x\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/
 it/9 : Po-si-tion zur Zeit $\OML/cmm/m/it/9 t$ \T1/cmr/m/it/9 [m], $\OML/cmm/m/
 it/9 x[]$\T1/cmr/m/it/9 : An-fangspo-si-tion [m], $\OML/cmm/m/it/9 v[]$\T1/cmr/
@@ -627,7 +627,7 @@ kon-stante Beschle-
 
 [4{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]
-Overfull \hbox (6.17455pt too wide) in paragraph at lines 287--287
+Overfull \hbox (6.17455pt too wide) in paragraph at lines 293--293
 [] $[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/it/9 : Ortsve
 k-tor [m], $\OML/cmm/m/it/9 x[]; y[]; z[]$\T1/cmr/m/it/9 : An-fangsko-or-di-nat
 en [m], $\OML/cmm/m/it/9 v[]; v[]; v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkei
@@ -635,7 +635,7 @@ ten [m/s], $\OML/cmm/m/it/9 a[]; a[]; a[]$\T1/cmr/m/it/9 :
  []
 
 
-Overfull \hbox (11.46492pt too wide) in paragraph at lines 308--308
+Overfull \hbox (11.46492pt too wide) in paragraph at lines 314--314
  $[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/it/9 : Ortsvek-
 tor [m], $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeit [m/s], 
 $\OML/cmm/m/it/9 $\T1/cmr/m/it/9 : Ab-wur-fwinkel, $\OML/cmm/m/it/9 g$\T1/cmr/
@@ -644,7 +644,7 @@ m/it/9 t$\T1/cmr/m/it/9 : Zeit [s],
  []
 
 
-Overfull \hbox (3.20572pt too wide) in paragraph at lines 317--317
+Overfull \hbox (3.20572pt too wide) in paragraph at lines 323--323
 [] $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/
 m/it/9 : Höhe zur Zeit $\OML/cmm/m/it/9 t$ \T1/cmr/m/it/9 [m], $\OML/cmm/m/it/9
  y[]$\T1/cmr/m/it/9 : An-fang-shöhe [m], $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : 
@@ -653,7 +653,7 @@ ML/cmm/m/it/9 g$\T1/cmr/m/it/9 : Erdbeschle-u-ni-
  []
 
 
-Overfull \hbox (7.30939pt too wide) in paragraph at lines 326--326
+Overfull \hbox (7.30939pt too wide) in paragraph at lines 332--332
 [] $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 x\OT1/cmr/m/n/9 )$\T1/cmr/
 m/it/9 : Höhe in Ab-hängigkeit vom hor-i-zon-talen Ort $\OML/cmm/m/it/9 x$ \T1/
 cmr/m/it/9 [m], $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 : An-fang-shöhe [m], $\OML/
@@ -661,24 +661,15 @@ cmm/m/it/9 v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeit [m/s],
  []
 
 [5]
-Overfull \hbox (0.722pt too wide) in paragraph at lines 385--385
+Overfull \hbox (0.722pt too wide) in paragraph at lines 394--394
 [] $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9 : rel-a-tivis-tis-che Masse [kg], $\OML/cm
 m/m/it/9 m[]$\T1/cmr/m/it/9 : Ruhe-masse [kg], $\OML/cmm/m/it/9 v$\T1/cmr/m/it/
 9 : Geschwindigkeit [m/s], $\OML/cmm/m/it/9 c$\T1/cmr/m/it/9 : Licht-geschwindi
 gkeit [m/s] [] 
  []
 
-
-Overfull \hbox (7.99774pt too wide) in paragraph at lines 395--395
-[] $\OML/cmm/m/it/9 F[]$\T1/cmr/m/it/9 : Grav-i-ta-tion-skraft [N], $\OML/cmm/m
-/it/9 G$\T1/cmr/m/it/9 : Grav-i-ta-tion-skon-stante [m\TS1/cmr/m/it/9 ³\T1/cmr/
-m/it/9 /kg\TS1/cmr/m/it/9 ·\T1/cmr/m/it/9 s\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $
-\OML/cmm/m/it/9 m[]; m[]$\T1/cmr/m/it/9 : Massen der Kör-per [kg], $\OML/cmm/m/
-it/9 r$\T1/cmr/m/it/9 : Ab-stand [m]
- []
-
 [6]
-Overfull \hbox (9.35109pt too wide) in paragraph at lines 454--454
+Overfull \hbox (9.35109pt too wide) in paragraph at lines 467--467
 [] $\OML/cmm/m/it/9 F[]$\T1/cmr/m/it/9 : Hangab-trieb-skraft [N], $\OML/cmm/m/i
 t/9 F[]$\T1/cmr/m/it/9 : Nor-malkraft [N], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9 : 
 Masse [kg], $\OML/cmm/m/it/9 g$\T1/cmr/m/it/9 : Erdbeschle-u-ni-gung [m/s\TS1/c
@@ -686,8 +677,8 @@ mr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 $\T1/cmr/m/it/9 : Nei-gungswinke
 l
  []
 
-
-Overfull \hbox (7.73062pt too wide) in paragraph at lines 467--467
+[7]
+Overfull \hbox (7.73062pt too wide) in paragraph at lines 480--480
 [] $\OML/cmm/m/it/9 F[]$\T1/cmr/m/it/9 : Zugkraft an der Feder [N], $\OML/cmm/m
 /it/9 F[]$\T1/cmr/m/it/9 : Rück-stel-lkraft der Feder [N], $\OML/cmm/m/it/9 K[]
 $\T1/cmr/m/it/9 : Fed-erkon-stante [N/m], $\OML/cmm/m/it/9 x$\T1/cmr/m/it/9 : A
@@ -695,15 +686,15 @@ uslenkung
  []
 
 
-Overfull \hbox (39.97331pt too wide) in paragraph at lines 477--477
+Overfull \hbox (39.97331pt too wide) in paragraph at lines 490--490
 [] $[]$\T1/cmr/m/it/9 : Zen-tripetalkraft [N], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/
 9 : Masse [kg], $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Winkelgeschwindigkeit [rad/
 s], $[]$: Ra-diusvek-tor [m], $\OML/cmm/m/it/9 v$\T1/cmr/m/it/9 : Bah-ngeschwin
 digkeit
  []
 
-[7]
-Overfull \hbox (61.12148pt too wide) in paragraph at lines 491--491
+
+Overfull \hbox (61.12148pt too wide) in paragraph at lines 504--504
 [] $\OML/cmm/m/it/9 F[]$\T1/cmr/m/it/9 : Luftwider-stand [N], $\OML/cmm/m/it/9 
 c[]$\T1/cmr/m/it/9 : Wider-stands-bei-w-ert, $\OML/cmm/m/it/9 ^^Z$\T1/cmr/m/it/
 9 : Dichte der Luft [kg/m\TS1/cmr/m/it/9 ³\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 A$
@@ -712,14 +703,14 @@ L/cmm/m/it/9 v$\T1/cmr/m/it/9 : Geschwindigkeit
  []
 
 [8]
-Overfull \hbox (0.39047pt too wide) in paragraph at lines 573--573
+Overfull \hbox (0.39047pt too wide) in paragraph at lines 587--587
 [] $\OML/cmm/m/it/9 X[]$\T1/cmr/m/it/9 : Massen-mit-telpunkt [m], $\OML/cmm/m/i
 t/9 m[]$\T1/cmr/m/it/9 : Masse des Teilchens [kg], $[]$: Ort des Teilchens [m],
  $\OML/cmm/m/it/9 m[]$\T1/cmr/m/it/9 : Gesamt-masse [kg] [] 
  []
 
 [9]
-Overfull \hbox (6.34329pt too wide) in paragraph at lines 629--629
+Overfull \hbox (6.34329pt too wide) in paragraph at lines 643--643
 [] $\OML/cmm/m/it/9 W[]$\T1/cmr/m/it/9 : Beschle-u-ni-gungsar-beit [J], $\OML/c
 mm/m/it/9 F[]$\T1/cmr/m/it/9 : Beschle-u-ni-gende Kraft [N], $\OT1/cmr/m/n/9 ^^
 A\OML/cmm/m/it/9 x$\T1/cmr/m/it/9 : Weg [m], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9 
@@ -727,28 +718,28 @@ A\OML/cmm/m/it/9 x$\T1/cmr/m/it/9 : Weg [m], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9
  []
 
 
-Overfull \hbox (19.00977pt too wide) in paragraph at lines 641--641
+Overfull \hbox (19.00977pt too wide) in paragraph at lines 656--656
 []\T1/cmr/bx/n/14.4 Verrichtete Ar-beit bei ger-adlin-iger Be-we-gung mit ortsa
 b-hängiger
  []
 
 [10]
-Overfull \hbox (1.1169pt too wide) in paragraph at lines 705--705
+Overfull \hbox (1.1169pt too wide) in paragraph at lines 721--721
  $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Gesamte mech-a-nis-che En-ergie [J], $\O
 ML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Po-ten-tielle En-ergie [J], $\OML/cmm/m/it/9
  E[]$\T1/cmr/m/it/9 : Kinetis-che En-ergie [J], $\OML/cmm/m/it/9 m$\T1/cmr/m/it
 /9 : Masse
  []
 
-[11]
-Overfull \hbox (4.83356pt too wide) in paragraph at lines 793--793
+[11] [12]
+Overfull \hbox (4.83356pt too wide) in paragraph at lines 813--813
 [] $\OML/cmm/m/it/9 v[]; v[]$\T1/cmr/m/it/9 : Endgeschwindigkeiten nach dem Sto
 ÿ [m/s], $\OML/cmm/m/it/9 m[]; m[]$\T1/cmr/m/it/9 : Massen [kg], $\OML/cmm/m/it
 /9 v[]; v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeiten [m/s]
  []
 
-[12]
-Overfull \hbox (1.61203pt too wide) in paragraph at lines 855--855
+[13]
+Overfull \hbox (4.66132pt too wide) in paragraph at lines 909--909
 [] $\OML/cmm/m/it/9 a[]$\T1/cmr/m/it/9 : Zen-tripetalbeschle-u-ni-gung [m/s\TS1
 /cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 r$\T1/cmr/m/it/9 : Ra-dius [m],
  $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Winkelgeschwindigkeit [rad/s], $\OML/cmm/m
@@ -756,15 +747,15 @@ Overfull \hbox (1.61203pt too wide) in paragraph at lines 855--855
  []
 
 
-Overfull \hbox (12.89084pt too wide) in paragraph at lines 871--871
+Overfull \hbox (12.89084pt too wide) in paragraph at lines 925--925
 [] $\OML/cmm/m/it/9 '\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/
 m/it/9 : Winkel [rad], $\OML/cmm/m/it/9 '[]$\T1/cmr/m/it/9 : An-fangswinkel [ra
 d], $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : An-fangswinkelgeschwindigkeit [rad/s], 
 $\OML/cmm/m/it/9 $\T1/cmr/m/it/9 : kon-stante Winkelbeschle-
  []
 
-[13]
-Overfull \hbox (17.54942pt too wide) in paragraph at lines 886--886
+[14]
+Overfull \hbox (17.54942pt too wide) in paragraph at lines 940--940
 [] $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Winkelgeschwindigkeit [rad/s], $\OML/cmm
 /m/it/9 ![]$\T1/cmr/m/it/9 : An-fangswinkelgeschwindigkeit [rad/s], $\OML/cmm/m
 /it/9 $\T1/cmr/m/it/9 : Winkelbeschle-u-ni-gung [rad/s\TS1/cmr/m/it/9 ²\T1/cmr
@@ -772,27 +763,27 @@ Overfull \hbox (17.54942pt too wide) in paragraph at lines 886--886
  []
 
 
-Overfull \hbox (3.244pt too wide) in paragraph at lines 897--897
+Overfull \hbox (3.244pt too wide) in paragraph at lines 951--951
  $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Ro-ta-tion-sen-ergie [J], $\OML/cmm/m/it
 /9 m[]$\T1/cmr/m/it/9 : Masse [kg], $\OML/cmm/m/it/9 r[]$\T1/cmr/m/it/9 : Ab-st
 and zur Drehachse [m], $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Winkelgeschwindigkei
 t [rad/s], $\OML/cmm/m/it/9 I$\T1/cmr/m/it/9 :
  []
 
-</Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf, id=70, 
+</Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf, id=74, 
 661.47125pt x 668.4975pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf Gra
 phic file (type pdf)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Vergleich.pdf  used on input line 901.
+s/Vergleich.pdf  used on input line 955.
 (pdftex.def)             Requested size: 455.24411pt x 460.07031pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14] [15 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf
+[15] [16 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf
 >]
-Overfull \hbox (5.14726pt too wide) in paragraph at lines 991--991
+Overfull \hbox (5.14726pt too wide) in paragraph at lines 1045--1045
 [] $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Kinetis-che En-ergie der Ro-ta-tion [J
 ], $\OML/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : Trägheitsmo-ment um Schw-er-punk-tachs
 e [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/
@@ -800,28 +791,28 @@ cmm/m/it/9 I[]$\T1/cmr/m/it/9 : Trägheitsmo-
  []
 
 
-Overfull \hbox (24.47891pt too wide) in paragraph at lines 1022--1022
+Overfull \hbox (24.47891pt too wide) in paragraph at lines 1076--1076
 [] $\OML/cmm/m/it/9 a[]$\T1/cmr/m/it/9 : Tan-gen-tialbeschle-u-ni-gung [m/s\TS1
 /cmr/m/it/9 ²\T1/cmr/m/it/9 ], $[]$: Winkelbeschle-u-ni-gung [rad/s\TS1/cmr/m/i
 t/9 ²\T1/cmr/m/it/9 ], $[]$: Ra-diusvek-tor [m], $[]$: Kraft [N], $\OML/cmm/m/i
 t/9 m$\T1/cmr/m/it/9 : Masse
  []
 
-[16]
-Overfull \hbox (3.36713pt too wide) in paragraph at lines 1037--1037
+[17]
+Overfull \hbox (3.36713pt too wide) in paragraph at lines 1091--1091
  \T1/cmr/m/it/9 Statis-che Be-din-gun-gen: keine Beschle-u-ni-gung, keine Winke
 lbeschle-u-ni-gung. Kräfte- und Mo-menten-gle-ichgewicht.  
  []
 
 
-Overfull \hbox (2.51157pt too wide) in paragraph at lines 1037--1037
+Overfull \hbox (2.51157pt too wide) in paragraph at lines 1091--1091
 $[]$\T1/cmr/m/it/9 : re-sul-tierende Kraft [N], $[]$: Beschle-u-ni-gung [m/s\TS
 1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $[]$: Drehmo-ment [Nm], $[]$: Winkelbeschle-u-n
 i-gung [rad/s\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ] [] 
  []
 
 
-Overfull \hbox (25.02019pt too wide) in paragraph at lines 1048--1048
+Overfull \hbox (25.02019pt too wide) in paragraph at lines 1104--1104
  $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Gesamten-ergie [J], $\OML/cmm/m/it/9 I[]
 $\T1/cmr/m/it/9 : Trägheitsmo-ment um Schw-er-punkt [kg\TS1/cmr/m/it/9 ·\T1/cmr
 /m/it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 :
@@ -829,7 +820,7 @@ $\T1/cmr/m/it/9 : Trägheitsmo-ment um Schw-er-punkt [kg\TS1/cmr/m/it/9 ·\T1/cmr
  []
 
 
-Overfull \hbox (17.6333pt too wide) in paragraph at lines 1066--1066
+Overfull \hbox (17.6333pt too wide) in paragraph at lines 1122--1122
 [] $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Po-ten-tielle En-ergie [J], $\OML/cmm/
 m/it/9 v[]$\T1/cmr/m/it/9 : Geschwindigkeit [m/s], $\OML/cmm/m/it/9 g$\T1/cmr/m
 /it/9 : Erdbeschle-u-ni-gung [m/s\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m
@@ -837,7 +828,7 @@ m/it/9 v[]$\T1/cmr/m/it/9 : Geschwindigkeit [m/s], $\OML/cmm/m/it/9 g$\T1/cmr/m
  []
 
 
-Overfull \hbox (38.50166pt too wide) in paragraph at lines 1081--1081
+Overfull \hbox (38.50166pt too wide) in paragraph at lines 1137--1137
  $\OML/cmm/m/it/9 L$\T1/cmr/m/it/9 : Drehim-puls [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/
 it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 /s], $\OML/cmm/m/it/9 I$\T1/cmr/m/it/9 : 
 Trägheitsmo-ment [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m
@@ -845,8 +836,8 @@ Trägheitsmo-ment [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m
 $: Ort [m], $[]$: Im-puls [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/it/9 m/s],
  []
 
-[17]
-Overfull \hbox (6.75572pt too wide) in paragraph at lines 1111--1111
+[18]
+Overfull \hbox (6.75572pt too wide) in paragraph at lines 1167--1167
  $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/
 it/9 : Auslenkung [m], $\OML/cmm/m/it/9 v\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/
 cmr/m/n/9 )$\T1/cmr/m/it/9 : Geschwindigkeit [m/s], $\OML/cmm/m/it/9 a\OT1/cmr/
@@ -855,8 +846,8 @@ s\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Am-pli-
 tude [m], $\OML/cmm/m/it/9 ![]$\T1/cmr/m/it/9 : Kre-is-fre-
  []
 
-[18]
-Overfull \hbox (5.36568pt too wide) in paragraph at lines 1180--1180
+[19]
+Overfull \hbox (5.36568pt too wide) in paragraph at lines 1236--1236
 [] $\OML/cmm/m/it/9 ^^R\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cm
 r/m/it/9 : Winkel [rad], $\OML/cmm/m/it/9 s$\T1/cmr/m/it/9 : Ab-stand zur Dreha
 chse [m], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9 : Masse [kg], $\OML/cmm/m/it/9 g$\T
@@ -865,7 +856,7 @@ L/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : Trägheitsmo-
  []
 
 
-Overfull \hbox (3.9375pt too wide) in paragraph at lines 1205--1205
+Overfull \hbox (3.9375pt too wide) in paragraph at lines 1261--1261
  $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/
 it/9 : Auslenkung [m], $\OML/cmm/m/it/9 ^^N$\T1/cmr/m/it/9 : Abklingkon-stante 
 [1/s], $\OML/cmm/m/it/9 b$\T1/cmr/m/it/9 : Dämp-fungskon-stante [kg/s], $\OML/c
@@ -873,19 +864,17 @@ mm/m/it/9 m$\T1/cmr/m/it/9 : Masse [kg], $\OML/cmm/m/it/9 ![]$\T1/cmr/m/it/9 :
 ungedämpfte
  []
 
-</Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf, id=90, 661.47
+[20]
+</Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf, id=98, 661.47
 125pt x 569.12625pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf Graphic f
 ile (type pdf)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/DGL.pdf  used on input line 1229.
+s/DGL.pdf  used on input line 1285.
 (pdftex.def)             Requested size: 455.24411pt x 391.68149pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[19] [20 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf>]
-Overfull \hbox (30.87477pt too wide) in paragraph at lines 1289--1289
+ [21 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf>]
+Overfull \hbox (30.87477pt too wide) in paragraph at lines 1345--1345
 [] $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 z; t\OT1/cmr/m/n/9 )$\T1/c
 mr/m/it/9 : Auslenkung [m], $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Am-pli-tude [m]
 , $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Kre-is-fre-quenz [rad/s], $\OML/cmm/m/it/
@@ -894,7 +883,7 @@ mr/m/it/9 : Auslenkung [m], $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Am-pli-tude [m]
  []
 
 
-Overfull \hbox (6.67462pt too wide) in paragraph at lines 1315--1315
+Overfull \hbox (6.67462pt too wide) in paragraph at lines 1371--1371
 [] $\OML/cmm/m/it/9 c$\T1/cmr/m/it/9 : Phasen-geschwindigkeit [m/s], $\OML/cmm/
 m/it/9 F[]$\T1/cmr/m/it/9 : Spannkraft im Seil [N], $\OML/cmm/m/it/9 ^^V$\T1/cm
 r/m/it/9 : lin-eare Massendichte [kg/m], $\OML/cmm/m/it/9 ^^O[]$\T1/cmr/m/it/9 
@@ -902,14 +891,14 @@ r/m/it/9 : lin-eare Massendichte [kg/m], $\OML/cmm/m/it/9 ^^O[]$\T1/cmr/m/it/9
  []
 
 
-Overfull \hbox (9.70297pt too wide) in paragraph at lines 1315--1315
+Overfull \hbox (9.70297pt too wide) in paragraph at lines 1371--1371
 \T1/cmr/m/it/9 kon-stante (Per-mit-tiv-ität des Vaku-ums) [F/m], $\OML/cmm/m/it
 /9 ^^V[]$\T1/cmr/m/it/9 : mag-netis-che Feld-kon-stante (Per-me-abil-ität des V
 aku-ums) [H/m],
  []
 
-[21]
-Overfull \hbox (3.86636pt too wide) in paragraph at lines 1338--1338
+[22]
+Overfull \hbox (3.86636pt too wide) in paragraph at lines 1394--1394
  $\OML/cmm/m/it/9 I\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 z\OT1/cmr/m/n/9 )\OML/cmm/m/
 it/9 ; I\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 r\OT1/cmr/m/n/9 )$\T1/cmr/m/it/9 : In-t
 en-sität [W/m$[]$], $\OML/cmm/m/it/9 P[]$\T1/cmr/m/it/9 : zeitlich gemit-telte 
@@ -918,20 +907,20 @@ Leis-tung [W], $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Fläche senkrecht zur Aus-bre
  []
 
 
-Overfull \hbox (14.84503pt too wide) in paragraph at lines 1389--1389
+Overfull \hbox (14.84503pt too wide) in paragraph at lines 1445--1445
  $\OML/cmm/m/it/9 ^^W[]$\T1/cmr/m/it/9 : Fre-quenz beim Empfänger [Hz], $\OML/c
 mm/m/it/9 ^^W[]$\T1/cmr/m/it/9 : Fre-quenz der Quelle [Hz], $\OML/cmm/m/it/9 V[
 ]$\T1/cmr/m/it/9 : Geschwindigkeit des Empfängers rel-a-tiv zum
  []
 
 
-Overfull \hbox (16.64995pt too wide) in paragraph at lines 1389--1389
+Overfull \hbox (16.64995pt too wide) in paragraph at lines 1445--1445
 \T1/cmr/m/it/9 Medium [m/s], $\OML/cmm/m/it/9 V[]$\T1/cmr/m/it/9 : Geschwindigk
 eit der Quelle rel-a-tiv zum Medium [m/s], $\OML/cmm/m/it/9 c$\T1/cmr/m/it/9 : 
 Aus-bre-itungs-geschwindigkeit der Welle
  []
 
-[22] [23] (./document.aux)
+[23] [24] (./document.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -940,7 +929,7 @@ L3 programming layer <2024-02-20>
 Here is how much of TeX's memory you used:
  14436 strings out of 474116
  284210 string characters out of 5743683
- 1940187 words of memory out of 5000000
+ 1942187 words of memory out of 5000000
  36531 multiletter control sequences out of 15000+600000
  572562 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -960,17 +949,18 @@ ive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
 /2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
 2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/20
 24/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024
-/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2024/t
-exmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/tex
-mf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf
--dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2024/texmf-d
-ist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dis
-t/fonts/type1/public/cm-super/sfti0600.pfb></usr/local/texlive/2024/texmf-dist/
-fonts/type1/public/cm-super/sfti0900.pfb>
-Output written on document.pdf (23 pages, 851720 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2024/t
+exmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2024/tex
+mf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf
+-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-d
+ist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2024/texmf-dis
+t/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/
+fonts/type1/public/cm-super/sfti0600.pfb></usr/local/texlive/2024/texmf-dist/fo
+nts/type1/public/cm-super/sfti0900.pfb>
+Output written on document.pdf (24 pages, 867846 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
+ 218 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
