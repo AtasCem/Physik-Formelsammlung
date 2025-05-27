@@ -55,7 +55,8 @@
 	
 	\subsection{Umrechnungen in SI-Einheiten}
 	
-	\begin{displayformula}
+
+		\begin{displayformula}
 		\[
 		\text{Kraft} F = kg \cdot \frac{m}{s^2} = N
 		\]
@@ -77,7 +78,8 @@
 		\[
 		\text{Beschleunigung} a = \frac{m}{s^2}
 		\]
-	\end{displayformula}
+		\end{displayformula}
+
 	
 	
 	\subsection{Messunsicherheit Typ A}
@@ -90,6 +92,16 @@
 	\end{displayformula}
 	\formulalegend{
 		\( \bar{x} \): Mittelwert der Messwerte [Einheit wie \( x_i \)], \( x_i \): Einzelne Messwerte, \( N \): Anzahl der Messungen
+	}
+	
+	\begin{displayformula}
+		Standartabweichung des Messverfahrens
+		\[
+		\Delta x = \sqrt{\frac{1}{N - 1} \sum_{i = 1}^{N} (x_i - \bar{x})}
+		\]
+	\end{displayformula}
+		\formulalegend{
+		\( \Delta x \): Standardabweichung [Einheit wie \( x_i \)], \( x_i \): Einzelne Messwerte, \( \bar{x} \): Mittelwert, \( N \): Anzahl der Messwerte
 	}
 	
 	\begin{displayformula}
@@ -1351,6 +1363,9 @@
 	\[
 	c = \sqrt{\frac{F_s}{\mu}}
 	\]
+		\[
+	\mu = \frac{m}{l}
+	\]
 	Elektromagnetische Wellen im Vakuum
 	\[
 	c = \frac{1}{\sqrt{\epsilon_0 \mu_0}}
@@ -1367,7 +1382,10 @@
 	\( \epsilon_0 \): elektrische Feldkonstante (Permittivität des Vakuums) [F/m], 
 	\( \mu_0 \): magnetische Feldkonstante (Permeabilität des Vakuums) [H/m], 
 	\( \epsilon_r \): relative Permittivität, 
-	\( \mu_r \): relative Permeabilität
+	\( \mu_r \): relative Permeabilität,
+	\(m\): masse [kg],
+	\(l\): länge [l]
+	\}
 }
 
 \subsection{Wellen in drei Dimensionen}
@@ -1517,5 +1535,93 @@ Der Gangunterschied stellt anschaulich den räumlichen Versatz der beiden Wellen
 	\item \textbf{Gangunterschied:} $\Delta z = \pm \frac{\lambda}{2},\ \pm \frac{3\lambda}{2},\ \pm \frac{5\lambda}{2},\ \dots$
 	\item \textbf{Ergebnis:} Auslöschung der Wellen (Maxima und Minima überlagern sich)
 \end{itemize}
+
+\subsection{Überlagerung von zwei Wellen mit geringfügig unterschiedlicher Frequenz und Wellenlänge}
+
+\begin{displayformula}
+	\[
+	y_1 = A \cos (k_1z - \omega_1 t)
+	\]
+	\[
+	y_2 = A \cos (k_2z - \omega_2 t)
+	\]
+	\[
+	y = y_1 + y_2
+	\]
+	\[
+	y = 2 A \cos (\frac{1}{2} \Delta kz - \frac{1}{2} \Delta \omega t) \cos (\frac{(k_1 + k_2)}{2} z - \frac{(\omega_1 + \omega_2)}{2}t)
+	\]
+\end{displayformula}
+Der erste Teil der Formel ($2 A \cos (\frac{1}{2} \Delta kz - \frac{1}{2} \Delta \omega t)$) stellt die resultierende Amplitude $A_{res}$ dar. \\
+Der Zweite Teil der Formel ($\cos (\frac{(k_1 + k_2)}{2} z - \frac{(\omega_1 + \omega_2)}{2}t)$) beschreibt die, sich in Z-Richtung ausbreitende Welle
+
+Wenn die Differenz 1Hz beträgt, hat man jede Sekunde ein Auf- und Abklingen ($\frac{1}{1 Hz} = 1s$). Bei 3 Hz hat man schon 3 Auf- und Abklingen pro Sekunde
+\formulalegend{
+	$y_1$, $y_2$: Einzelne Wellenfunktionen, 
+	$y$: resultierende Welle, 
+	$A$: Amplitude der Einzelsignale, 
+	$A_{\text{res}}$:  resultierende Amplitude, 
+	$k$: Wellenzahl, $k = \frac{2\pi}{\lambda}$ [$\text{rad}/\text{m}$], 
+	$\omega$: Kreisfrequenz, $\omega = 2\pi f$ [$\text{rad}/\text{s}$], 
+	$f$: Frequenz [Hz], 
+	$\delta$: Phasendifferenz [rad], 
+	$\lambda$: Wellenlänge [m], 
+	$\Delta z$: Gangunterschied [m], 
+	$z_1$, $z_2$: Orte der beiden Wellenfronten
+}
+
+\begin{displayformula}
+		Ausbreitungsgeschwindigkeit des Wellenpakets (Gruppengeschwindigkeit):
+	\[
+	v_{gr} = \frac{\Delta \omega}{\Delta k} = \frac{c}{n_{gr}}
+	\]
+\end{displayformula}
+
+\begin{displayformula}
+		Phasengeschwindigkeit
+	\[
+	v_{ph} = \frac{\bar{ \omega}}{\bar{k}} = \frac{c}{\bar{n}}
+	\]
+\end{displayformula}
+
+\section{Reflexion und Transmission an Grenzschichten}
+
+\begin{displayformula}
+Bei Seilkraft gilt: 
+	\[
+	c = \sqrt{\frac{F_s}{\mu}}
+	\]
+	\[
+	\mu = \frac{m}{l}
+	\]
+\end{displayformula}
+
+\begin{displayformula}
+	Die Amplituden der reflektierten und transmittierten Welle ergeben sich mit Hilfe des \\ Reflektionskoeffizienten R
+	\[
+	y_R = R \cdot y_0 = \frac{c_2 - c_1}{c_2 + c_1} \cdot y_0 = \frac{n_1 - n_2}{n_1 + n_2} \cdot y_0
+	\]
+	Und dem Transmissionskoeffizienten T
+	\[
+	y_T = T \cdot y_0 = \frac{2c_2}{c_2 + c_1} \cdot y_0 = \frac{2n_1}{n_1 + n_2} \cdot y_0
+	\]
+\end{displayformula}
+Durch R wird die Amplitude der reflektierten Welle berechnet. Ist diese negativ, startet die Amplitude am Reflexionspunkt beim negativen Wert des berechneten R. \\
+Durch T wird die Amplitude der transmittierten Welle berechnet. Selbe Logik wie bei R. \\
+Zwei Wellen können sich auch gegenseitig auslöschen, wenn die Amplituden gleich groß und entgegengesetzt sind.
+
+\begin{displayformula}
+	Bei Energieübertragung, der Wellenintensität (elektromagnetische Wellen, Licht): \\
+	Reflexionsgrad $\rho$ = $R^2$
+	\[
+	I_R = \rho \cdot I_0 = (\frac{c_2 - c_1}{c_2 + c_1})^2 \cdot I_0 = (\frac{n_1 - n_2}{n_1 + n_2})^2 \cdot I_0
+	\]
+	Und dem Transmissionsgrad $\tau$ =  $1 - \rho$
+	\[
+	I_T = \tau \cdot I_0 = \frac{4n_1n_2}{(n_1 + n_2)^2} \cdot I_0
+	\]
+\end{displayformula}
+
+
 
 \end{document}
