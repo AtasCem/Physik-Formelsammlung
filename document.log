@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  27 MAY 2025 21:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  31 MAY 2025 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -616,7 +616,8 @@ ML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeit [m/s], $\OT1/cmr/m/
 n/9 ^^A\OML/cmm/m/it/9 t$\T1/cmr/m/it/9 : Zeit
  []
 
-
+[4{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}]
 Overfull \hbox (8.75171pt too wide) in paragraph at lines 238--238
  $\OML/cmm/m/it/9 x\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/
 it/9 : Po-si-tion zur Zeit $\OML/cmm/m/it/9 t$ \T1/cmr/m/it/9 [m], $\OML/cmm/m/
@@ -625,8 +626,7 @@ m/it/9 : An-fangs-geschwindigkeit [m/s], $\OML/cmm/m/it/9 a[]$\T1/cmr/m/it/9 :
 kon-stante Beschle-
  []
 
-[4{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}]
+
 Overfull \hbox (6.17455pt too wide) in paragraph at lines 305--305
 [] $[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/it/9 : Ortsve
 k-tor [m], $\OML/cmm/m/it/9 x[]; y[]; z[]$\T1/cmr/m/it/9 : An-fangsko-or-di-nat
@@ -634,7 +634,7 @@ en [m], $\OML/cmm/m/it/9 v[]; v[]; v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkei
 ten [m/s], $\OML/cmm/m/it/9 a[]; a[]; a[]$\T1/cmr/m/it/9 :
  []
 
-
+[5]
 Overfull \hbox (11.46492pt too wide) in paragraph at lines 326--326
  $[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/it/9 : Ortsvek-
 tor [m], $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeit [m/s], 
@@ -643,7 +643,7 @@ m/it/9 : Erdbeschle-u-ni-gung [m/s\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/
 m/it/9 t$\T1/cmr/m/it/9 : Zeit [s],
  []
 
-[5]
+
 Overfull \hbox (3.20572pt too wide) in paragraph at lines 335--335
 [] $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/
 m/it/9 : Höhe zur Zeit $\OML/cmm/m/it/9 t$ \T1/cmr/m/it/9 [m], $\OML/cmm/m/it/9
@@ -930,7 +930,121 @@ de Welle, $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Am-pli-tude der Einzelsig-nale, $
 \OML/cmm/m/it/9 A[]$\T1/cmr/m/it/9 : re-sul-tierende Am-
  []
 
-[26] [27] (./document.aux)
+
+Overfull \hbox (14.79698pt too wide) in paragraph at lines 1585--1585
+[] $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : Grup-pengeschwindigkeit [m/s], $\OT1/c
+mr/m/n/9 ^^A\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Än-derung der Kre-is-fre-quenz [
+rad/s], $\OT1/cmr/m/n/9 ^^A\OML/cmm/m/it/9 k$\T1/cmr/m/it/9 : Än-derung der Wel
+len-zahl [1/m],
+ []
+
+
+Overfull \hbox (42.33391pt too wide) in paragraph at lines 1600--1600
+[] $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : Phasen-geschwindigkeit [m/s], $[]$: mi
+t-tlere Kre-is-fre-quenz [rad/s], $[]$: mit-tlere Wellen-zahl [1/m], $\OML/cmm/
+m/it/9 c$\T1/cmr/m/it/9 : Licht-geschwindigkeit
+ []
+
+
+Overfull \hbox (11.27676pt too wide) in paragraph at lines 1620--1620
+ $\OML/cmm/m/it/9 c$\T1/cmr/m/it/9 : Wellengeschwindigkeit auf dem Seil [m/s], 
+$\OML/cmm/m/it/9 F[]$\T1/cmr/m/it/9 : Seilkraft (Zugspan-nung) [N], $\OML/cmm/m
+/it/9 ^^V$\T1/cmr/m/it/9 : lin-eare Massendichte [kg/m], $\OML/cmm/m/it/9 m$\T1
+/cmr/m/it/9 :
+ []
+
+
+Overfull \hbox (1.02988pt too wide) in paragraph at lines 1641--1641
+[] $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 : Am-pli-tude der re-flek-tierten Welle 
+[m], $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 : Am-pli-tude der trans-mit-tierten We
+lle [m], $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 : Am-pli-tude der ein-
+ []
+
+
+Overfull \hbox (6.39478pt too wide) in paragraph at lines 1641--1641
+\T1/cmr/m/it/9 fal-l-en-den Welle [m], $\OML/cmm/m/it/9 R$\T1/cmr/m/it/9 : Re-f
+lek-tion-sko-ef-fizient [^^U], $\OML/cmm/m/it/9 T$\T1/cmr/m/it/9 : Trans-mis-si
+on-sko-ef-fizient [^^U], $\OML/cmm/m/it/9 c[]$\T1/cmr/m/it/9 , $\OML/cmm/m/it/9
+ c[]$\T1/cmr/m/it/9 : Wellengeschwindigkeiten
+ []
+
+[26]
+Overfull \hbox (9.91885pt too wide) in paragraph at lines 1667--1667
+[] $\OML/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : In-ten-sität der re-flek-tierten Welle
+ [W/m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : I
+n-ten-sität der trans-mit-tierten Welle [W/m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], 
+$\OML/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : In-ten-sität der
+ []
+
+
+Overfull \hbox (102.15776pt too wide) in paragraph at lines 1667--1667
+\T1/cmr/m/it/9 ein-fal-l-en-den Welle [W/m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\
+OML/cmm/m/it/9 ^^Z$\T1/cmr/m/it/9 : Re-flex-ion-s-grad [^^U], $\OML/cmm/m/it/9 
+^^\$\T1/cmr/m/it/9 : Trans-mis-sion-s-grad [^^U], $\OML/cmm/m/it/9 R$\T1/cmr/m/
+it/9 : Re-flek-tion-sko-ef-fizient [^^U], $\OML/cmm/m/it/9 c[]$\T1/cmr/m/it/9 ,
+ $\OML/cmm/m/it/9 c[]$\T1/cmr/m/it/9 : Wellengeschwindigkeiten
+ []
+
+[27]
+Overfull \hbox (5.37114pt too wide) in paragraph at lines 1714--1714
+ $\OML/cmm/m/it/9 L$\T1/cmr/m/it/9 : Länge des schwin-gen-den Medi-ums [m], $\O
+ML/cmm/m/it/9 ^^U[]$\T1/cmr/m/it/9 : Wellen-länge der $\OML/cmm/m/it/9 n$\T1/cm
+r/m/it/9 -ten ste-hen-den Welle [m], $\OML/cmm/m/it/9 n$\T1/cmr/m/it/9 : Ord-nu
+ng, $\OML/cmm/m/it/9 ^^W[]$\T1/cmr/m/it/9 : Fre-
+ []
+
+
+Overfull \hbox (21.71674pt too wide) in paragraph at lines 1714--1714
+\T1/cmr/m/it/9 quenz der $\OML/cmm/m/it/9 n$\T1/cmr/m/it/9 -ten Res-o-nanz [Hz]
+, $\OML/cmm/m/it/9 ^^W[]$\T1/cmr/m/it/9 : Grun-dres-o-nanzfre-quenz [Hz], $\OT1
+/cmr/m/n/9 ^^A[]$\T1/cmr/m/it/9 : Fre-quen-z-ab-stand be-nach-barter Res-o-nanz
+en [Hz],
+ []
+
+
+Overfull \hbox (30.71283pt too wide) in paragraph at lines 1741--1741
+ $\OML/cmm/m/it/9 C$\T1/cmr/m/it/9 : Aus-bre-itungs-geschwindigkeit der elek-tr
+o-mag-netis-chen Welle im Medium [m/s], $\OML/cmm/m/it/9 C[]$\T1/cmr/m/it/9 : L
+icht-geschwindigkeit im Vakuum
+ []
+
+
+Overfull \hbox (4.26065pt too wide) in paragraph at lines 1741--1741
+\T1/cmr/m/it/9 [m/s], $\OML/cmm/m/it/9 ^^V[]$\T1/cmr/m/it/9 : mag-netis-che Fel
+d-kon-stante (Per-me-abil-ität des Vaku-ums) [H/m], $\OML/cmm/m/it/9 ^^O[]$\T1/
+cmr/m/it/9 : elek-trische Feld-kon-stante (Per-mit-
+ []
+
+
+Overfull \hbox (10.42174pt too wide) in paragraph at lines 1741--1741
+\T1/cmr/m/it/9 tiv-ität des Vaku-ums) [F/m], $\OML/cmm/m/it/9 ^^V[]$\T1/cmr/m/i
+t/9 : rel-a-tive Per-me-abil-ität des Medi-ums [^^U], $\OML/cmm/m/it/9 ^^O[]$\T
+1/cmr/m/it/9 : rel-a-tive Per-mit-tiv-ität des Medi-ums [^^U],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1750--1752
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1758
+
+ []
+
+
+Overfull \hbox (16.79626pt too wide) in paragraph at lines 1772--1772
+ $\OML/cmm/m/it/9 ^^U[]$\T1/cmr/m/it/9 : Wellen-länge des Lichts im Medium [m],
+ $\OML/cmm/m/it/9 C$\T1/cmr/m/it/9 : Licht-geschwindigkeit im Medium [m/s], $\O
+ML/cmm/m/it/9 C[]$\T1/cmr/m/it/9 : Licht-geschwindigkeit
+ []
+
+[28] [29] (./document.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -939,7 +1053,7 @@ L3 programming layer <2024-02-20>
 Here is how much of TeX's memory you used:
  14436 strings out of 474116
  284210 string characters out of 5743683
- 1941187 words of memory out of 5000000
+ 1940187 words of memory out of 5000000
  36531 multiletter control sequences out of 15000+600000
  572562 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -967,10 +1081,10 @@ ist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2024/texmf-dis
 t/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/
 fonts/type1/public/cm-super/sfti0600.pfb></usr/local/texlive/2024/texmf-dist/fo
 nts/type1/public/cm-super/sfti0900.pfb>
-Output written on document.pdf (27 pages, 876739 bytes).
+Output written on document.pdf (29 pages, 887253 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
+ 234 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

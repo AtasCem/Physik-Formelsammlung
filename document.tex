@@ -1576,6 +1576,14 @@ Wenn die Differenz 1Hz beträgt, hat man jede Sekunde ein Auf- und Abklingen ($\
 	v_{gr} = \frac{\Delta \omega}{\Delta k} = \frac{c}{n_{gr}}
 	\]
 \end{displayformula}
+\formulalegend{
+	\( v_{gr} \): Gruppengeschwindigkeit [m/s],
+	\( \Delta \omega \): Änderung der Kreisfrequenz [rad/s],
+	\( \Delta k \): Änderung der Wellenzahl [1/m],
+	\( c \): Lichtgeschwindigkeit im Vakuum [m/s],
+	\( n_{gr} \): Gruppengeschwindigkeitsbrechungsindex [–]
+}
+
 
 \begin{displayformula}
 		Phasengeschwindigkeit
@@ -1583,6 +1591,14 @@ Wenn die Differenz 1Hz beträgt, hat man jede Sekunde ein Auf- und Abklingen ($\
 	v_{ph} = \frac{\bar{ \omega}}{\bar{k}} = \frac{c}{\bar{n}}
 	\]
 \end{displayformula}
+\formulalegend{
+	\( v_{ph} \): Phasengeschwindigkeit [m/s], 
+	\( \bar{\omega} \): mittlere Kreisfrequenz [rad/s], 
+	\( \bar{k} \): mittlere Wellenzahl [1/m], 
+	\( c \): Lichtgeschwindigkeit im Vakuum [m/s], 
+	\( \bar{n} \): Brechzahl
+}
+
 
 \section{Reflexion und Transmission an Grenzschichten}
 
@@ -1595,6 +1611,14 @@ Bei Seilkraft gilt:
 	\mu = \frac{m}{l}
 	\]
 \end{displayformula}
+\formulalegend{
+	\( c \): Wellengeschwindigkeit auf dem Seil [m/s], 
+	\( F_s \): Seilkraft (Zugspannung) [N], 
+	\( \mu \): lineare Massendichte [kg/m], 
+	\( m \): Masse des Seils [kg], 
+	\( l \): Länge des Seils [m]
+}
+
 
 \begin{displayformula}
 	Die Amplituden der reflektierten und transmittierten Welle ergeben sich mit Hilfe des \\ Reflektionskoeffizienten R
@@ -1606,6 +1630,16 @@ Bei Seilkraft gilt:
 	y_T = T \cdot y_0 = \frac{2c_2}{c_2 + c_1} \cdot y_0 = \frac{2n_1}{n_1 + n_2} \cdot y_0
 	\]
 \end{displayformula}
+\formulalegend{
+	\( y_R \): Amplitude der reflektierten Welle [m], 
+	\( y_T \): Amplitude der transmittierten Welle [m], 
+	\( y_0 \): Amplitude der einfallenden Welle [m], 
+	\( R \): Reflektionskoeffizient [–], 
+	\( T \): Transmissionskoeffizient [–], 
+	\( c_1 \), \( c_2 \): Wellengeschwindigkeiten in Medium 1 bzw. 2 [m/s], 
+	\( n_1 \), \( n_2 \): Brechungsindizes der beiden Medien [–]
+}
+
 Durch R wird die Amplitude der reflektierten Welle berechnet. Ist diese negativ, startet die Amplitude am Reflexionspunkt beim negativen Wert des berechneten R. \\
 Durch T wird die Amplitude der transmittierten Welle berechnet. Selbe Logik wie bei R. \\
 Zwei Wellen können sich auch gegenseitig auslöschen, wenn die Amplituden gleich groß und entgegengesetzt sind.
@@ -1621,7 +1655,131 @@ Zwei Wellen können sich auch gegenseitig auslöschen, wenn die Amplituden gleic
 	I_T = \tau \cdot I_0 = \frac{4n_1n_2}{(n_1 + n_2)^2} \cdot I_0
 	\]
 \end{displayformula}
+\formulalegend{
+	\( I_R \): Intensität der reflektierten Welle [W/m²], 
+	\( I_T \): Intensität der transmittierten Welle [W/m²], 
+	\( I_0 \): Intensität der einfallenden Welle [W/m²], 
+	\( \rho \): Reflexionsgrad [–], 
+	\( \tau \): Transmissionsgrad [–], 
+	\( R \): Reflektionskoeffizient [–], 
+	\( c_1 \), \( c_2 \): Wellengeschwindigkeiten in Medium 1 bzw. 2 [m/s], 
+	\( n_1 \), \( n_2 \): Brechungsindizes der beiden Medien [–]
+}
 
+
+\section{Stehende Wellen}
+
+\subsection{Stehende Wellen bei beidseitig gleichartigen Enden}
+
+\begin{displayformula}
+	Die Bedingung für eine stehende Welle bei beidseitig gleichartiger Begrenzung lautet:
+	\[
+	L = n\frac{\lambda_n}{2} \text{mit n = 1, 2, 3, ...}
+	\]
+	Dadurch ergeben sich die Resonanzfrequenzen
+	\[
+	\nu_n = \frac{n}{2} \cdot \frac{c}{L} = n \cdot \nu_1 \text{mit n = 1, 2, 3, ...}
+	\]
+	Der Abstand benachbarter Resonanzfrequenzen entspricht der Grundresonanzfrequenz
+	\[
+	\Delta_\nu = \nu_1
+	\]
+\end{displayformula}
+
+
+\subsection{Stehende Wellen bei unterschiedlicher (z.B.) einseitiger Begrenzung}
+
+\begin{displayformula}
+	Die Bedingung für eine stehende Welle bei unterschiedlicher Begrenzung lautet:
+	\[
+	L = n\frac{\lambda_n}{4} \text{mit n = 1, 3, 5, ...}
+	\]
+	Dadurch ergeben sich die Resonanzfrequenzen
+	\[
+	\nu_n = \frac{n}{4} \cdot \frac{c}{L} = n \cdot \nu_1 \text{mit n = 1, 3, 5, ...}
+	\]
+	Der Abstand benachbarter Resonanzfrequenzen entspricht dem doppelten der Grundresonanzfrequenz
+	\[
+	\Delta_\nu = 2\nu_1
+	\]
+\end{displayformula}
+\formulalegend{
+	\( L \): Länge des schwingenden Mediums [m], 
+	\( \lambda_n \): Wellenlänge der \(n\)-ten stehenden Welle [m], 
+	\( n \): Ordnung, 
+	\( \nu_n \): Frequenz der \(n\)-ten Resonanz [Hz], 
+	\( \nu_1 \): Grundresonanzfrequenz [Hz], 
+	\( \Delta_\nu \): Frequenzabstand benachbarter Resonanzen [Hz], 
+	\( c \): Ausbreitungsgeschwindigkeit der Welle [m/s]
+}
+
+
+\section{Optik}
+
+\subsection{Wellengleichung}
+
+\begin{displayformula}
+	Ausbreitungsgeschwindigkeit von elektromagnetischen Wellen:
+	\[
+	C = \frac{1}{\sqrt{\mu_0 \epsilon_0} \cdot \sqrt{\mu_r \epsilon_r}} = \frac{C_0}{n}
+	\]
+	\[
+	C_0 \approx 3 \cdot 10^8 \frac{m}{s}
+	\]
+	\[
+	n = \sqrt{\mu_r \epsilon_r}
+	\]
+\end{displayformula}
+\formulalegend{
+	\( C \): Ausbreitungsgeschwindigkeit der elektromagnetischen Welle im Medium [m/s], 
+	\( C_0 \): Lichtgeschwindigkeit im Vakuum [m/s], 
+	\( \mu_0 \): magnetische Feldkonstante (Permeabilität des Vakuums) [H/m], 
+	\( \epsilon_0 \): elektrische Feldkonstante (Permittivität des Vakuums) [F/m], 
+	\( \mu_r \): relative Permeabilität des Mediums [–], 
+	\( \epsilon_r \): relative Permittivität des Mediums [–], 
+	\( n \): Brechzahl
+}
+
+
+\subsection{Eigenschaften des Lichts}
+
+\begin{displayformula}
+	Trifft Licht auf ein Medium, so ändert sich nicht die Frequenz des Lichts, sondern die Wellenlänge und beträgt:
+	\[
+	\lambda_{Med} = \frac{C}{\mu} = \frac{\frac{C_0}{n}}{\mu} = \frac{\lambda}{n}
+	\]
+	Fall a) Bei Abmessungen <= $\lambda$: \\
+	\begin{itemize}
+		\item Ausbreitung von Licht muss mit Maxwellschen Wellengleichungen betrachtet werden 
+		\item Licht erfährt beim Auftrefen auf Grenzschichten und Gegenständen Effekte wie Interferenz und Beugung \\
+	\end{itemize}
+	
+	Fall b) Geometrische Optik bei Abmessungen > $\lambda$: \\
+	\begin{itemize}
+		\item Verwendung des Strahlenmodells: Licht breitet sich in der geometrischen Optik im homogenen Medium geradlinig aus 
+		\item Huygensches Prinzip: Jeder Punkt einer Wellenfront ist Ausgangspunkt einer neuen Elementarwelle
+		\item Fermatsches Prinzip: Die Ausbreitung des Lichts erfolgt zwischen zwei Punkten im Medium auf dem Weg, füür den die benötigte Zeit ein Minimum ist.
+	\end{itemize}
+
+\end{displayformula}
+\formulalegend{
+	\( \lambda_{Med} \): Wellenlänge des Lichts im Medium [m], 
+	\( C \): Lichtgeschwindigkeit im Medium [m/s], 
+	\( C_0 \): Lichtgeschwindigkeit im Vakuum [m/s], 
+	\( \mu \): Frequenz des Lichts [Hz], 
+	\( n \): Brechzahl, 
+	\( \lambda \): Wellenlänge des Lichts im Vakuum [m]
+}
+
+
+\subsection{Brechung und Reflexion}
+
+\begin{displayformula}
+	\begin{itemize}
+		\item Die Ausbreitungsgeschwindigkeit elektromagnetischer Wellen ändert sich, wenn sie in ein Medium mit anderer Brechzahl übergehen
+		\item Die Änderung der Ausbreitungsgeschwindigkeit spielt eine wesentliche Rolle, wenn Licht nicht senkrecht auf eine Grenzfläche trifft
+	\end{itemize}
+\end{displayformula}
 
 
 \end{document}
