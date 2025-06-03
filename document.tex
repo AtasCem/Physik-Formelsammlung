@@ -324,14 +324,34 @@
 \formulalegend{
 	\( \vec{r}(t) \): Ortsvektor [m], \( v_0 \): Anfangsgeschwindigkeit [m/s], \( \alpha \): Abwurfwinkel, \( g \): Erdbeschleunigung [m/s²], \( t \): Zeit [s], \( y_0 \): Anfangshöhe [m]
 }
+	Wenn nach der Reichweite und nach der Flugauer gefragt ist:
+\begin{itemize}
+
+	\item Flugdauer: Y-Komponente gleich 0 setzen und t berechnen
+	\item Reichweite: t in X-Komponente einsetzen und X berechnen
+	\item Beim berechnen immer aufpassen, in welche Richtung wir eine Geschwindigkeit haben
+\end{itemize}
 
 \begin{displayformula}
+	Geschwindigkeitskomponenten
 	\[
-	y(t) = y_0 + v_0\sin\alpha \cdot t - \frac{1}{2} gt^2
+	v_y = v_0 \cdot \sin (\alpha)
+	\]
+	\[
+	v_x = v_0 \cdot \cos (\alpha)
 	\]
 \end{displayformula}
+
+\begin{displayformula}
+	Reichweite D:
+	\[
+	D = \frac{v_0^2 \cdot \sin (2 \alpha)}{g}
+	\]
+\end{displayformula}
+
+
 \formulalegend{
-	\( y(t) \): Höhe zur Zeit \( t \) [m], \( y_0 \): Anfangshöhe [m], \( v_0 \): Anfangsgeschwindigkeit [m/s], \( \alpha \): Winkel, \( g \): Erdbeschleunigung [m/s²], \( t \): Zeit [s]
+\( v_0 \): Anfangsgeschwindigkeit [m/s], \( \alpha \): Winkel, \( g \): Erdbeschleunigung [m/s²]
 }
 
 \begin{displayformula}
@@ -1780,6 +1800,68 @@ Zwei Wellen können sich auch gegenseitig auslöschen, wenn die Amplituden gleic
 		\item Die Änderung der Ausbreitungsgeschwindigkeit spielt eine wesentliche Rolle, wenn Licht nicht senkrecht auf eine Grenzfläche trifft
 	\end{itemize}
 \end{displayformula}
+
+\begin{displayformula}
+	Für den transmittierten Strahl gilt (Snelliusches Brechungsgesetz):
+	\[
+	n_1 \sin \theta_1 = n_2 \sin \theta_2
+	\]
+\end{displayformula}
+\formulalegend{
+	\( n_1 \): Brechungsindex des Mediums 1 [—], 
+	\( n_2 \): Brechungsindex des Mediums 2 [—], 
+	\( \theta_1 \): Einfallswinkel des Lichtstrahls im Medium 1 [rad], 
+	\( \theta_2 \): Brechungswinkel des Lichtstrahls im Medium 2 [rad]
+}
+
+
+\begin{displayformula}
+	Für die Reflexion von Licht gilt (Einfallswinkel = Ausgangswinkel):
+	\[
+	\sin \theta_1' = \sin \theta_1
+	\]
+\end{displayformula}
+\formulalegend{
+	\( \theta_1 \): Einfallswinkel des Lichtstrahls relativ zur Lotrechten [rad], 
+	\( \theta_1' \): Reflexionswinkel des Lichtstrahls relativ zur Lotrechten [rad]
+}
+
+
+\begin{displayformula}
+	Beim Übergang von optisch dichtem zu optisch dünnem Medium kann es vorkommen, dass keine Transmission stattfinden kann, da der Sinus des Winkels $\theta_2$ höchstens 1 betragen kann. \\
+	Die Bedingung für Totalreflexion lautet:
+	\[
+	\sin \theta_2 = 1
+	\]
+	
+	Der kleinste Einfallswinkel, bei welchem die sogenannte Totalreflexion stattfindet:
+	\[
+	\sin \theta_1 = \frac{n_2}{n_1} \sin \theta_2 = \frac{n_2}{n_1} \text{(da $˝\theta_2 = 1$)}
+	\]
+\end{displayformula}
+\formulalegend{
+	\( \theta_1 \): Grenzwinkel für Totalreflexion (Einfallswinkel im optisch dichteren Medium) [rad], 
+	\( \theta_2 \): Brechungswinkel im optisch dünneren Medium (bei Totalreflexion: \( \theta_2 = 90^\circ \)) [rad], 
+	\( n_1 \): Brechungsindex des optisch dichteren Mediums [—], 
+	\( n_2 \): Brechungsindex des optisch dünneren Mediums [—]
+}
+
+
+\subsection{Optische Abbildungen}
+
+\subsubsection{Spiegel}
+\begin{displayformula}
+	Einfallswinkel = Ausfallswinkel
+	\[
+	\theta = \theta '
+	\]
+\end{displayformula}
+\formulalegend{
+	\( \theta \): Einfallswinkel des Lichtstrahls relativ zur Lotrechten [rad], 
+	\( \theta' \): Reflexionswinkel des Lichtstrahls relativ zur Lotrechten [rad]
+}
+
+
 
 
 \end{document}
