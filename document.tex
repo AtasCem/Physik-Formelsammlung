@@ -492,7 +492,7 @@
 	\[
 	F_N = m \cdot g \cdot \cos\alpha
 	\]
-	Diese Aufgaben mit Kräftezerlegung lösen: Wirklinien von $F_H$ und $F_N$ einzeichnen und ein Kräfteparallelogramm bilden. Anschließend über trigonometrische Zusammenhänge lösen.
+	Diese Aufgaben mit Kräftezerlegung lösen: Wirklinien von $F_H$ und $F_N$ einzeichnen und ein Kräfteparallelogramm bilden. Anschließend über trigonometrische Zusammenhänge lösen. \\ $F_G$ nicht einzeichnen!
 \end{displayformula}
 \formulalegend{
 	\( F_H \): Hangabtriebskraft [N], \( F_N \): Normalkraft [N], \( m \): Masse [kg], \( g \): Erdbeschleunigung [m/s²], \( \alpha \): Neigungswinkel
@@ -669,6 +669,8 @@
 	\[
 	W_B = F_B \cdot \Delta x = m \cdot a \cdot \Delta x = \frac{1}{2} mv^2
 	\]
+	Für $\Delta$ x kann $x_0 + vt + \frac{1}{2} at^2$ verwendet werden \\
+	$a = \frac{F}{m}$
 \end{displayformula}
 \formulalegend{
 	\( W_B \): Beschleunigungsarbeit [J], \( F_B \): Beschleunigende Kraft [N], \( \Delta x \): Weg [m], \( m \): Masse [kg], \( a \): Beschleunigung [m/s²], \( v \): Geschwindigkeit [m/s]
@@ -860,8 +862,9 @@
 	0 = m_1v_{1y}' + m2v_{2y}'
 	\]
 	\[
-	0 = m_1v_1' \sin \Theta_1  + m2v_2' \sin \Theta_2
+	0 = m_1v_1' \sin \Theta_1  - m2v_2' \sin \Theta_2
 	\]
+	Auf Vorzeichen achten(Welcher Winkel zeigt wohin) Nur in Y-Richtung \\
 	Da wir einen elastischen Stoß haben gilt der Energieerhaltungssatz:
 	\[
 		m_1 v_1^2 = m_1 v_1'^2 +  m_2 v_2'^2
@@ -899,6 +902,7 @@
 	\[
 	\alpha = \frac{d^2 \varphi(t)}{dt^2} = \frac{d\omega(t)}{dt} \quad \text{mit } [\alpha] = \text{rad/s}^2
 	\]
+	Wenn die Frequenz und Zeit gegeben ist, kann hiermit alpha berechnet werden, wenn im Zähler $2 \pi f$ und im Nenner die Zeit eingesetzt wird
 \end{displayformula}
 \formulalegend{
 	\( \alpha \): Winkelbeschleunigung [rad/s²], \( \omega(t) \): Winkelgeschwindigkeit [rad/s], \( \varphi(t) \): Winkel [rad]
@@ -1012,6 +1016,14 @@
 \formulalegend{
 	\( I \): Trägheitsmoment [kg·m²], \( r \): Abstand zur Drehachse [m], \( dm \): infinitesimale Masse [kg]
 }
+
+\begin{displayformula}
+	Punktförmige Masse bei länge l
+	\[
+	I = m \cdot l^2
+	\]
+	L bezieht sich auf die Drehachse - Es muss nicht mit Steiner gearbeitet werden sondern l = Abstand zum Drehpunkt
+\end{displayformula}
 \begin{displayformula}
 	Massiver, homogener Zylinder (Masse \( m \); Radius \( r_a \))
 	\[
@@ -1071,6 +1083,7 @@
 	\[
 	I_p = I_s + m r^2
 	\]
+	Der steinersche Satz wird nicht angewendet, wenn in der Formel schon die Drehachse nicht in der Mitte ist
 \end{displayformula}
 \formulalegend{
 	\( E_{\text{kin}} \): Kinetische Energie der Rotation [J], \( I_s \): Trägheitsmoment um Schwerpunktachse [kg·m²], \( I_p \): Trägheitsmoment um Parallelachse [kg·m²], \( m \): Masse [kg], \( r \): Abstand der Achsen [m], \( \omega \): Winkelgeschwindigkeit [rad/s]
@@ -1082,6 +1095,7 @@
 	\[
 	\vec{M} = I \cdot \vec{\alpha}
 	\]
+	Falls Masse etc. fehlen, kann auch auf diese Weise das Trägheitsmoment bestimmt werden
 \end{displayformula}
 \formulalegend{
 	\( \vec{M} \): Drehmoment [Nm], \( I \): Trägheitsmoment [kg·m²], \( \vec{\alpha} \): Winkelbeschleunigung [rad/s²]
@@ -1092,6 +1106,7 @@
 	\[
 	\vec{M} = \vec{r} \times \vec{F}
 	\]
+	Betrag von M --> r und F können multipliziert werden
 \end{displayformula}
 \formulalegend{
 	\( \vec{M} \): Drehmoment [Nm], \( \vec{r} \): Hebelarm [m], \( \vec{F} \): Kraft [N]
@@ -1193,6 +1208,7 @@
 	\[
 	a(t) = -\omega_0^2 A \cdot \cos(\omega_0 t + \delta)
 	\]
+	Wenn bei einer aufgabe die Funktion nach der Zeit gefragt wird, nachdem man A und $\omega$ berechnet hat, kann die Phasenverschiebung ignoriert werden (falls keine gegeben ist)
 \end{displayformula}
 \formulalegend{
 	\( y(t) \): Auslenkung [m], \( v(t) \): Geschwindigkeit [m/s], \( a(t) \): Beschleunigung [m/s²], \( A \): Amplitude [m], \( \omega_0 \): Kreisfrequenz [rad/s], \( \delta \): Phasenverschiebung [rad], \( t \): Zeit [s]
@@ -1203,6 +1219,7 @@
 	\[
 	\omega_0 = 2\pi f_0 = \frac{2\pi}{T_0} = \sqrt{\frac{k_F}{m}}
 	\]
+	Diese Formeln können auch benutzt werden, wenn die feder abgelenkt ist
 \end{displayformula}
 \formulalegend{
 	\( \omega_0 \): Kreisfrequenz [rad/s], \( f_0 \): Frequenz [Hz], \( T_0 \): Periodendauer [s], \( k_F \): Federkonstante [N/m], \( m \): Masse [kg]
@@ -1217,6 +1234,21 @@
 \formulalegend{
 	\( E_{\text{mech}} \): Mechanische Energie [J], \( k_F \): Federkonstante [N/m], \( A \): Amplitude [m]
 }
+
+\begin{displayformula}
+	Federkonstante
+	\[
+	-k_F \cdot x = m \cdot a
+	\]
+	\[
+	k_F = - \frac{m \cdot a}{x}
+	\]
+	Die Formel folgt aus dem Hookschen Gesetzt und dem zweiten Newtonschen Axiom. \\ Hooksches Gesetz:
+	\[
+	F = -k_F \cdot x
+	\]
+	Die Formel gilt bei idelaen Betrachtungen, bei denen die Feder nur in einer Achse wirkt \\ x ist die Auslenkung der Feder
+\end{displayformula}
 
 \begin{displayformula}
 	Vertikaler Federschwinger
@@ -1262,6 +1294,7 @@
 	\ddot{\theta}(t) + \frac{s m g}{I_p} \sin\theta(t) = 0
 	\quad \Rightarrow \quad \omega_0 = \sqrt{\frac{s m g}{I_p}}
 	\]
+	s ist der Abstand vom Aufhängepunkt zum Schwerpunkt - bei einem homogenen stab ist der Schwerpunkt in der Mitte also wäre $s = l/2$
 \end{displayformula}
 \formulalegend{
 	\( \theta(t) \): Winkel [rad], \( s \): Abstand zur Drehachse [m], \( m \): Masse [kg], \( g \): Erdbeschleunigung [m/s²], \( I_p \): Trägheitsmoment bezogen auf Drehachse [kg·m²]
