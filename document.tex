@@ -57,26 +57,33 @@
 	
 
 		\begin{displayformula}
+			Kraft:
 		\[
-		\text{Kraft} F = kg \cdot \frac{m}{s^2} = N
+		F = kg \cdot \frac{m}{s^2} = N
 		\]
+		Arbeit:
 		\[
-		\text{Arbeit} W = kg \cdot \frac{m}{s^2} \cdot m = kg \cdot \frac{m^2}{s^2} = J
+		W = kg \cdot \frac{m}{s^2} \cdot m = kg \cdot \frac{m^2}{s^2} = J
 		\]
+		Leistung:
 		\[
-		\text{Leistung} P = \frac{kg \cdot m^2}{s^3} = W
+		P = \frac{kg \cdot m^2}{s^3} = W
 		\]
+		Spannung:
 		\[
-		\text{Spannung} U = \frac{kg \cdot m^2}{s^2 \cdot As} = \frac{kg \cdot m^2}{A \cdot s^3} = V
+		U = \frac{kg \cdot m^2}{s^2 \cdot As} = \frac{kg \cdot m^2}{A \cdot s^3} = V
 		\]
+		Kapazität:
 		\[
-		\text{Kapazität} C = \frac{A^2 \cdot s^4}{kg \cdot m^2} = \frac{C}{V} = \frac{As}{V} = F
+		C = \frac{A^2 \cdot s^4}{kg \cdot m^2} = \frac{C}{V} = \frac{As}{V} = F
 		\]
+		Geschwindigkeit:
 		\[
-		\text{Geschwindigkeit} v = \frac{m}{s}
+		v = \frac{m}{s}
 		\]
+		Beschleunigung:
 		\[
-		\text{Beschleunigung} a = \frac{m}{s^2}
+		a = \frac{m}{s^2}
 		\]
 		\end{displayformula}
 
@@ -159,6 +166,7 @@
 		\[
 		u_{ges} = \sqrt{(\frac{\partial_z}{\partial_a} \cdot \Delta a)^2 + (\frac{\partial_z}{\partial_b} \cdot \Delta b)^2 + (\frac{\partial_z}{\partial_c} \cdot \Delta c)^2 }
 		\]
+		Einfach die Funktion zur Lösung des Problems nach der jeweiligen Variablen Ableiten und für Delta die gegebenen oder berechneten Abweichungen eintragen
 	\end{displayformula}
 	
 	
@@ -307,6 +315,8 @@
 
 \subsection{Der schräge Wurf}
 
+\includegraphics[scale=0.5]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 19.43.11.png}
+
 \begin{displayformula}
 	\[
 	\vec{r}(t) =
@@ -348,11 +358,34 @@
 	D = \frac{v_0^2 \cdot \sin (2 \alpha)}{g}
 	\]
 \end{displayformula}
-
-
 \formulalegend{
 \( v_0 \): Anfangsgeschwindigkeit [m/s], \( \alpha \): Winkel, \( g \): Erdbeschleunigung [m/s²]
 }
+
+\begin{displayformula}
+	Berechnung des Auftreffwinkels: \\
+	Wenn Start- und Endhöhe bekannt sind, gilt: Auftrettwinkel = - Abwurfwinkel, \\ Bei unterschiedlichen Höhen gilt:
+	\[
+	tan \beta = \frac{v_y}{v_x} = \frac{v_0 \sin \alpha - gt}{v_o \cos \alpha}
+	\]
+	Berechnung der Auftreffgeschwindigkeit (siehe Skizze):
+	\[
+	v = \sqrt{v_x^2 + v_y^2}
+	\]
+	Achtung: $v_x$ und $v_y$ müüsen berechnet werden mit den trigonometrischen Zusammenhängen!!
+\end{displayformula}
+\formulalegend{
+	\( v_0 \): Anfangsgeschwindigkeit [m/s], 
+	\( \alpha \): Abwurfwinkel über der Horizontalen [° oder rad], 
+	\( g \): Erdbeschleunigung (ca. 9.81 m/s\(^2\)), 
+	\( t \): Flugzeit bis zum Auftreffen [s], 
+	\( v_x \): Horizontale Geschwindigkeit beim Auftreffen [m/s], 
+	\( v_y \): Vertikale Geschwindigkeit beim Auftreffen [m/s], 
+	\( \beta \): Auftreffwinkel unter der Horizontalen [° oder rad], 
+	\( v \): Betrag der Auftreffgeschwindigkeit [m/s]
+}
+
+
 
 \begin{displayformula}
 	\[
@@ -450,6 +483,7 @@
 
 \section{Kontaktkräfte und weitere Arten von Kräften}
 
+\includegraphics[scale=0.5]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.02.41.png}
 \begin{displayformula}
 	Gewichtskraft \( F_G \)
 	\[
@@ -498,6 +532,8 @@
 	\( F_H \): Hangabtriebskraft [N], \( F_N \): Normalkraft [N], \( m \): Masse [kg], \( g \): Erdbeschleunigung [m/s²], \( \alpha \): Neigungswinkel
 }
 
+\includegraphics[scale=0.5]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.08.02.png}
+
 \begin{displayformula}
 	Federkraft
 	\[
@@ -535,6 +571,7 @@
 	\( F_W \): Luftwiderstand [N], \( c_W \): Widerstandsbeiwert, \( \rho \): Dichte der Luft [kg/m³], \( A \): Querschnittsfläche [m²], \( v \): Geschwindigkeit [m/s], \( b \): Reibungskoeffizient [kg/m]
 }
 
+\includegraphics[scale=0.5]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.09.07.png}
 
 \subsection{Trägheits- und Scheinkräfte}
 
@@ -572,6 +609,8 @@
 	\( \vec{F}_{\mathrm{Cor}} \): Corioliskraft [N], \( m \): Masse [kg], \( \vec{v} \): Geschwindigkeit [m/s], \( \vec{\omega} \):  Winkelgeschwindigkeit [rad/s]
 }
 
+\includegraphics[scale=0.2]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.12.58.png}
+
 
 \section{Der Massenmittelpunkt}
 
@@ -608,6 +647,7 @@
 	\( X_s \): Schwerpunkt [m], \( X_1, X_2 \): Positionen der Massen [m], \( m_1, m_2 \): Massen [kg]
 }
 
+\includegraphics[scale=0.2]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.15.48.png}
 \begin{displayformula}
 	Für \( n \) Teilchen gilt
 	\[
@@ -874,6 +914,7 @@
 
 \section{Drehbewegungen}
 
+\includegraphics[scale=0.5]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 19.59.09.png}
 
 \begin{displayformula}
 	Die Länge eines Kreisbogens \( s \) ergibt sich aus dem Zusammenhang:
@@ -1131,6 +1172,17 @@
 	\[
 	\vec{M} = I \cdot \vec{\alpha} = 0
 	\]
+	Immer wenn ein Objekt sich nicht bewegen soll, ist dies anzuwenden und nicht nur zweites newtonschess Axiom für die Kraft. \\ Auch wenn es im Grenzzustand ist, wie zum Beispiel bei einer Kugel, die an der Kante ist und wo die Kraft gefragt ist zum drüberrollen, wird der Grenzfall mit dem Statischen Problem gelöst. \\ Kochrezept:
+	\begin{itemize}
+		\item Skizze erstellen
+		\item Alle wirkenden Kräfte und Momente und das Koordinatensystem einzeichnen
+		\item Koordinatenursprung schlau wählen
+		\item Im Koordinatensystem auch die Richtung vom Moment eintragen
+		\item Alle Kräfte in X Richtung und Y Richtung gesondert ansehen
+		\item Summe aller Kräfte in X-Richtung und Summe aller Kräfte in Y-Richtung müssen null ergeben
+		\item Summe aller Momente müssen null ergeben. Mit Vozeichenkonvention und rechter Hand regel prüfen, in welche Richtung die Momente wirken und mit Vorzeichen versehen
+		\item Gleichungssystem lösen
+	\end{itemize}
 \end{displayformula}
 \formulalegend{
 	Statische Bedingungen: keine Beschleunigung, keine Winkelbeschleunigung. Kräfte- und Momentengleichgewicht.\\
@@ -1314,6 +1366,8 @@
 
 \subsection{Gedämpfte Schwingungen}
 
+\includegraphics[scale=0.2]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.28.58.png}
+
 \begin{displayformula}
 	DGL für Feder-Masse-Dämpfungssystem:
 	\[
@@ -1385,6 +1439,8 @@
 }
 
 \section{Wellen}
+
+\includegraphics[scale=0.3]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.32.46.png}
 
 \begin{displayformula}
 	Eindimensionale Wellengleichung
@@ -1463,6 +1519,7 @@
 	\( I_0 \): Referenzintensität in Abstand \( r_0 \) [W/m\(^2\)], 
 	\( r, r_0 \): Abstand zur Quelle bzw. Referenzabstand [m]
 }
+\includegraphics[scale=0.3]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.33.27.png}
 
 \begin{displayformula}
 	Messung der Schallintensität
@@ -1480,6 +1537,8 @@
 
 \subsection{Der Doppler-Effekt}
 
+
+
 \begin{displayformula}
 	Fall 1: Empfänger bewegt sich relativ zu einer still stehenden Quelle
 	\[
@@ -1488,6 +1547,7 @@
 	\textcolor{blue}{Hinbewegung} \\
 	\textcolor{red}{Wegbewegung}
 \end{displayformula}
+
 
 \begin{displayformula}
 	Fall 2: Quelle bewegt sich relativ zu einem still stehenden Empfänger
@@ -1522,6 +1582,8 @@
 	\]
 \end{displayformula}
 
+
+
 \section{Überlagerung von Wellen}
 
 \subsection{Überlagerung von zwei Wellen mit gleicher Wellenzahl und Frequenz}
@@ -1538,9 +1600,11 @@ y = y_1 + y_2
 \[
 y = 2 A \cos (\frac{1}{2} \delta) \cos (kz - \omega t + \frac{1}{2} \delta)
 \]
-\end{displayformula}
 Der erste Teil der Formel ($2A \cos (\frac{1}{2} \delta$) stellt die resultierende Amplitude $A_{res}$ dar. \\
 Der Zweite Teil der Formel ($\cos (kz - \omega t + \frac{1}{2} \delta)$) beschreibt die, sich in Z-Richtung ausbreitende Welle
+\end{displayformula}
+
+\includegraphics[scale=0.3]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.38.57.png}
 
 \begin{displayformula}
 	Gangunterschied
@@ -1551,8 +1615,9 @@ Der Zweite Teil der Formel ($\cos (kz - \omega t + \frac{1}{2} \delta)$) beschre
 	\[
 	\Delta z = z_2 - z_1
 	\]
+	Der Gangunterschied stellt anschaulich den räumlichen Versatz der beiden Wellen in Bezug auf die Wellenlänge $\lambda$ dar
 \end{displayformula}
-Der Gangunterschied stellt anschaulich den räumlichen Versatz der beiden Wellen in Bezug auf die Wellenlänge $\lambda$ dar
+
 \formulalegend{
 	$y_1$, $y_2$: Einzelne Wellenfunktionen, 
 	$y$: resultierende Welle, 
@@ -1724,6 +1789,8 @@ Zwei Wellen können sich auch gegenseitig auslöschen, wenn die Amplituden gleic
 
 \subsection{Stehende Wellen bei beidseitig gleichartigen Enden}
 
+\includegraphics[scale=0.3]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.41.01.png}
+
 \begin{displayformula}
 	Die Bedingung für eine stehende Welle bei beidseitig gleichartiger Begrenzung lautet:
 	\[
@@ -1741,6 +1808,8 @@ Zwei Wellen können sich auch gegenseitig auslöschen, wenn die Amplituden gleic
 
 
 \subsection{Stehende Wellen bei unterschiedlicher (z.B.) einseitiger Begrenzung}
+
+\includegraphics[scale=0.3]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.42.00.png}
 
 \begin{displayformula}
 	Die Bedingung für eine stehende Welle bei unterschiedlicher Begrenzung lautet:
@@ -1892,6 +1961,91 @@ Zwei Wellen können sich auch gegenseitig auslöschen, wenn die Amplituden gleic
 \formulalegend{
 	\( \theta \): Einfallswinkel des Lichtstrahls relativ zur Lotrechten [rad], 
 	\( \theta' \): Reflexionswinkel des Lichtstrahls relativ zur Lotrechten [rad]
+}
+
+\begin{displayformula}
+	Abbildungsgleichung:
+	\[
+	\frac{1}{g} + \frac{1}{b} = \frac{1}{f}
+	\]
+	Brennweite:
+	\[
+	f = \frac{1}{2} r \text{(sphärischer Spiegel)}
+	\]
+	Vergrößerung:
+	\[
+	V = \frac{B}{G} = -\frac{b}{g}
+	\]
+\end{displayformula}
+\formulalegend{
+	\( g \): Gegenstandsweite [m], \( b \): Bildweite [m], \( f \): Brennweite [m], \( r \): Krümmungsradius [m], \( B \): Bildgröße [m], \( G \): Gegenstandsgröße [m], \( V \): Vergrößerung
+}
+
+\subsection{Linsen-Arten}
+
+\includegraphics[scale=0.3]{/Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 20.43.33.png}
+
+\subsection{Dünne Linsen}
+
+Sammellinse:
+Zerstreuungslinse:
+
+\subsubsection{Vorzeichen von Linsenparametern}
+\begin{framed}
+\begin{minipage}[t]{0.48\textwidth}
+	\subsubsection*{Sammellinsen}
+	\begin{itemize}
+		\item \textbf{Bikonvex} \\
+		$f = +$ \hspace{5mm} $r_1 = +$ \hspace{5mm} $r_2 = -$
+		
+		\item \textbf{Plankonvex} \\
+		$f = +$ \hspace{5mm} $r_1 = \infty$ \hspace{5mm} $r_2 = -$
+		
+		\item \textbf{Konkavkonvex} \\
+		$f = +$ \hspace{5mm} $r_1 = -$ \hspace{5mm} $r_2 = -$
+	\end{itemize}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+	\subsubsection*{Zerstreuungslinsen}
+	\begin{itemize}
+		\item \textbf{Bikonkav} \\
+		$f = -$ \hspace{5mm} $r_1 = -$ \hspace{5mm} $r_2 = +$
+		
+		\item \textbf{Plankonkav} \\
+		$f = -$ \hspace{5mm} $r_1 = \infty$ \hspace{5mm} $r_2 = +$
+		
+		\item \textbf{Konvexkonkav} \\
+		$f = -$ \hspace{5mm} $r_1 = +$ \hspace{5mm} $r_2 = +$
+	\end{itemize}
+\end{minipage}
+
+\end{framed}
+
+\begin{displayformula}
+	Abbildungsgleichung:
+	\[
+	\frac{1}{g} + \frac{1}{b} = \frac{1}{f}
+	\]
+	Brennweite:
+	\[
+	\frac{1}{f} = (\frac{n}{n_{Luft}} -1) \cdot (\frac{1}{r_1} - \frac{1}{r_2})
+	\]
+	Vergrößerung:
+	\[
+	V = \frac{B}{G} = -\frac{b}{g}
+	\]
+\end{displayformula}
+\formulalegend{
+	\( g \): Gegenstandsweite [m], 
+	\( b \): Bildweite [m], 
+	\( f \): Brennweite [m], 
+	\( n \): Brechungsindex des Linsenmaterials, 
+	\( n\_{Luft} \): Brechungsindex von Luft (\(\approx 1\)), 
+	\( r_1, r_2 \): Krümmungsradien der Linsenflächen [m], 
+	\( B \): Bildgröße [m], 
+	\( G \): Gegenstandsgröße [m], 
+	\( V \): Vergrößerung (dimensionslos)
 }
 
 

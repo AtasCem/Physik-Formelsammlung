@@ -1,54 +1,57 @@
 \contentsline {section}{\numberline {1}Physikalische Größen und Einheiten}{2}{}%
 \contentsline {subsection}{\numberline {1.1}Umrechnungen in SI-Einheiten}{2}{}%
-\contentsline {subsection}{\numberline {1.2}Messunsicherheit Typ A}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Messunsicherheit Typ A}{3}{}%
 \contentsline {subsection}{\numberline {1.3}Messunsicherheit Typ B}{3}{}%
-\contentsline {subsubsection}{\numberline {1.3.1}Ermittlung des kombinierten Unsicherheit}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}Ermittlung des kombinierten Unsicherheit}{4}{}%
 \contentsline {section}{\numberline {2}Verschiebung, Geschwindigkeit und \\Geschwindigkeitsbetrag}{4}{}%
 \contentsline {section}{\numberline {3}Gleichförmig beschleunigte Bewegung}{4}{}%
 \contentsline {section}{\numberline {4}Gleichmäßig beschleunigte Bewegung}{5}{}%
 \contentsline {section}{\numberline {5}Bewegung in zwei und drei Dimensionen}{5}{}%
 \contentsline {subsection}{\numberline {5.1}Der schräge Wurf}{6}{}%
-\contentsline {section}{\numberline {6}Die Newtonschen Axiome}{6}{}%
-\contentsline {subsection}{\numberline {6.1}Das erste Newtonsche Axiom: Das Trägheitsgesetz}{6}{}%
-\contentsline {subsection}{\numberline {6.2}Das zweite Newtonsche Axiom}{7}{}%
-\contentsline {subsection}{\numberline {6.3}Das dritte Newtonsche Axiom}{7}{}%
+\contentsline {section}{\numberline {6}Die Newtonschen Axiome}{7}{}%
+\contentsline {subsection}{\numberline {6.1}Das erste Newtonsche Axiom: Das Trägheitsgesetz}{7}{}%
+\contentsline {subsection}{\numberline {6.2}Das zweite Newtonsche Axiom}{8}{}%
+\contentsline {subsection}{\numberline {6.3}Das dritte Newtonsche Axiom}{8}{}%
 \contentsline {section}{\numberline {7}Kontaktkräfte und weitere Arten von Kräften}{8}{}%
-\contentsline {subsection}{\numberline {7.1}Trägheits- und Scheinkräfte}{9}{}%
-\contentsline {section}{\numberline {8}Der Massenmittelpunkt}{9}{}%
-\contentsline {section}{\numberline {9}Arbeit und kinetische Energie}{10}{}%
-\contentsline {section}{\numberline {10}Verrichtete Arbeit bei geradliniger Bewegung mit ortsabhängiger Kraft}{11}{}%
-\contentsline {section}{\numberline {11}Leistung}{12}{}%
-\contentsline {section}{\numberline {12}Energieerhaltung}{12}{}%
-\contentsline {section}{\numberline {13}Impuls und Impulserhaltung}{12}{}%
-\contentsline {section}{\numberline {14}Stoßprozesse}{13}{}%
-\contentsline {subsubsection}{\numberline {14.0.1}Gerader, zentraler, elastischer Stoß, zweite Kugel in Ruhe}{13}{}%
-\contentsline {subsection}{\numberline {14.1}Schiefer, zentraler, elastischer Stoß, die zweite Kugel ist in Ruhe}{14}{}%
-\contentsline {section}{\numberline {15}Drehbewegungen}{14}{}%
-\contentsline {subsection}{\numberline {15.1}Die Kinetische Energie der Drehbewegung}{16}{}%
-\contentsline {section}{\numberline {16}Massenträgheitsmomente}{16}{}%
-\contentsline {section}{\numberline {17}Das zweite Newtonsche Axiom für Drehbewegungen}{18}{}%
-\contentsline {subsection}{\numberline {17.1}Statisches Gleichgewicht}{19}{}%
-\contentsline {subsection}{\numberline {17.2}Die kinetische Energie rollender Körper}{19}{}%
-\contentsline {section}{\numberline {18}Drehimpuls und Drehimpulserhaltung}{20}{}%
-\contentsline {section}{\numberline {19}Schwingungen}{20}{}%
-\contentsline {subsection}{\numberline {19.1}Ungedämpfte, freie und harmonische Schwingungen}{20}{}%
-\contentsline {subsection}{\numberline {19.2}Gedämpfte Schwingungen}{22}{}%
-\contentsline {subsection}{\numberline {19.3}Energie des gedämpften Oszillators}{22}{}%
-\contentsline {subsection}{\numberline {19.4}Güte}{23}{}%
-\contentsline {section}{\numberline {20}Wellen}{23}{}%
-\contentsline {subsection}{\numberline {20.1}Wellen in drei Dimensionen}{24}{}%
-\contentsline {subsection}{\numberline {20.2}Der Doppler-Effekt}{25}{}%
-\contentsline {section}{\numberline {21}Überlagerung von Wellen}{25}{}%
-\contentsline {subsection}{\numberline {21.1}Überlagerung von zwei Wellen mit gleicher Wellenzahl und Frequenz}{25}{}%
-\contentsline {subsection}{\numberline {21.2}Interferenzbedingungen}{26}{}%
-\contentsline {subsection}{\numberline {21.3}Überlagerung von zwei Wellen mit geringfügig unterschiedlicher Frequenz und Wellenlänge}{26}{}%
-\contentsline {section}{\numberline {22}Reflexion und Transmission an Grenzschichten}{27}{}%
-\contentsline {section}{\numberline {23}Stehende Wellen}{28}{}%
-\contentsline {subsection}{\numberline {23.1}Stehende Wellen bei beidseitig gleichartigen Enden}{28}{}%
-\contentsline {subsection}{\numberline {23.2}Stehende Wellen bei unterschiedlicher (z.B.) einseitiger Begrenzung}{28}{}%
-\contentsline {section}{\numberline {24}Optik}{29}{}%
-\contentsline {subsection}{\numberline {24.1}Wellengleichung}{29}{}%
-\contentsline {subsection}{\numberline {24.2}Eigenschaften des Lichts}{29}{}%
-\contentsline {subsection}{\numberline {24.3}Brechung und Reflexion}{29}{}%
-\contentsline {subsection}{\numberline {24.4}Optische Abbildungen}{30}{}%
-\contentsline {subsubsection}{\numberline {24.4.1}Spiegel}{30}{}%
+\contentsline {subsection}{\numberline {7.1}Trägheits- und Scheinkräfte}{10}{}%
+\contentsline {section}{\numberline {8}Der Massenmittelpunkt}{11}{}%
+\contentsline {section}{\numberline {9}Arbeit und kinetische Energie}{12}{}%
+\contentsline {section}{\numberline {10}Verrichtete Arbeit bei geradliniger Bewegung mit ortsabhängiger Kraft}{13}{}%
+\contentsline {section}{\numberline {11}Leistung}{13}{}%
+\contentsline {section}{\numberline {12}Energieerhaltung}{13}{}%
+\contentsline {section}{\numberline {13}Impuls und Impulserhaltung}{14}{}%
+\contentsline {section}{\numberline {14}Stoßprozesse}{14}{}%
+\contentsline {subsubsection}{\numberline {14.0.1}Gerader, zentraler, elastischer Stoß, zweite Kugel in Ruhe}{15}{}%
+\contentsline {subsection}{\numberline {14.1}Schiefer, zentraler, elastischer Stoß, die zweite Kugel ist in Ruhe}{15}{}%
+\contentsline {section}{\numberline {15}Drehbewegungen}{16}{}%
+\contentsline {subsection}{\numberline {15.1}Die Kinetische Energie der Drehbewegung}{17}{}%
+\contentsline {section}{\numberline {16}Massenträgheitsmomente}{18}{}%
+\contentsline {section}{\numberline {17}Das zweite Newtonsche Axiom für Drehbewegungen}{20}{}%
+\contentsline {subsection}{\numberline {17.1}Statisches Gleichgewicht}{20}{}%
+\contentsline {subsection}{\numberline {17.2}Die kinetische Energie rollender Körper}{21}{}%
+\contentsline {section}{\numberline {18}Drehimpuls und Drehimpulserhaltung}{21}{}%
+\contentsline {section}{\numberline {19}Schwingungen}{22}{}%
+\contentsline {subsection}{\numberline {19.1}Ungedämpfte, freie und harmonische Schwingungen}{22}{}%
+\contentsline {subsection}{\numberline {19.2}Gedämpfte Schwingungen}{24}{}%
+\contentsline {subsection}{\numberline {19.3}Energie des gedämpften Oszillators}{24}{}%
+\contentsline {subsection}{\numberline {19.4}Güte}{25}{}%
+\contentsline {section}{\numberline {20}Wellen}{25}{}%
+\contentsline {subsection}{\numberline {20.1}Wellen in drei Dimensionen}{26}{}%
+\contentsline {subsection}{\numberline {20.2}Der Doppler-Effekt}{27}{}%
+\contentsline {section}{\numberline {21}Überlagerung von Wellen}{28}{}%
+\contentsline {subsection}{\numberline {21.1}Überlagerung von zwei Wellen mit gleicher Wellenzahl und Frequenz}{28}{}%
+\contentsline {subsection}{\numberline {21.2}Interferenzbedingungen}{28}{}%
+\contentsline {subsection}{\numberline {21.3}Überlagerung von zwei Wellen mit geringfügig unterschiedlicher Frequenz und Wellenlänge}{29}{}%
+\contentsline {section}{\numberline {22}Reflexion und Transmission an Grenzschichten}{29}{}%
+\contentsline {section}{\numberline {23}Stehende Wellen}{30}{}%
+\contentsline {subsection}{\numberline {23.1}Stehende Wellen bei beidseitig gleichartigen Enden}{30}{}%
+\contentsline {subsection}{\numberline {23.2}Stehende Wellen bei unterschiedlicher (z.B.) einseitiger Begrenzung}{31}{}%
+\contentsline {section}{\numberline {24}Optik}{31}{}%
+\contentsline {subsection}{\numberline {24.1}Wellengleichung}{31}{}%
+\contentsline {subsection}{\numberline {24.2}Eigenschaften des Lichts}{32}{}%
+\contentsline {subsection}{\numberline {24.3}Brechung und Reflexion}{32}{}%
+\contentsline {subsection}{\numberline {24.4}Optische Abbildungen}{33}{}%
+\contentsline {subsubsection}{\numberline {24.4.1}Spiegel}{33}{}%
+\contentsline {subsection}{\numberline {24.5}Linsen-Arten}{34}{}%
+\contentsline {subsection}{\numberline {24.6}Dünne Linsen}{34}{}%
+\contentsline {subsubsection}{\numberline {24.6.1}Vorzeichen von Linsenparametern}{34}{}%
