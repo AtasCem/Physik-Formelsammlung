@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  11 JUN 2025 20:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  12 JUN 2025 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -609,7 +609,7 @@ hung [Ein-heit wie $\OML/cmm/m/it/9 x[]$\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 N$\T
  []
 
 [3] [4]
-Overfull \hbox (8.75862pt too wide) in paragraph at lines 227--227
+Overfull \hbox (8.75862pt too wide) in paragraph at lines 229--229
 [] $[]$\T1/cmr/m/it/9 : Mit-tlere Beschle-u-ni-gung [m/s\TS1/cmr/m/it/9 ²\T1/cm
 r/m/it/9 ], $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : Endgeschwindigkeit [m/s], $\O
 ML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeit [m/s], $\OT1/cmr/m/
@@ -617,7 +617,7 @@ n/9 ^^A\OML/cmm/m/it/9 t$\T1/cmr/m/it/9 : Zeit
  []
 
 
-Overfull \hbox (8.75171pt too wide) in paragraph at lines 246--246
+Overfull \hbox (8.75171pt too wide) in paragraph at lines 248--248
  $\OML/cmm/m/it/9 x\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/
 it/9 : Po-si-tion zur Zeit $\OML/cmm/m/it/9 t$ \T1/cmr/m/it/9 [m], $\OML/cmm/m/
 it/9 x[]$\T1/cmr/m/it/9 : An-fangspo-si-tion [m], $\OML/cmm/m/it/9 v[]$\T1/cmr/
@@ -627,24 +627,25 @@ kon-stante Beschle-
 
 [5{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]
-Overfull \hbox (6.17455pt too wide) in paragraph at lines 313--313
+Overfull \hbox (6.17455pt too wide) in paragraph at lines 317--317
 [] $[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/it/9 : Ortsve
 k-tor [m], $\OML/cmm/m/it/9 x[]; y[]; z[]$\T1/cmr/m/it/9 : An-fangsko-or-di-nat
 en [m], $\OML/cmm/m/it/9 v[]; v[]; v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkei
 ten [m/s], $\OML/cmm/m/it/9 a[]; a[]; a[]$\T1/cmr/m/it/9 :
  []
 
+[6]
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 19.43.11.png, id=41, 489.83pt x 308.15125pt>
+-11 um 19.43.11.png, id=44, 489.83pt x 308.15125pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 19.43.11.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 19.43.11.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 19.43.11.png  used on input line 318.
-(pdftex.def)             Requested size: 244.9144pt x 154.07524pt.
+s/Bildschirmfoto 2025-06-11 um 19.43.11.png  used on input line 323.
+(pdftex.def)             Requested size: 146.95012pt x 92.44608pt.
 
-Overfull \hbox (11.46492pt too wide) in paragraph at lines 336--336
+Overfull \hbox (11.46492pt too wide) in paragraph at lines 341--341
 [] $[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/it/9 : Ortsve
 k-tor [m], $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeit [m/s]
 , $\OML/cmm/m/it/9 $\T1/cmr/m/it/9 : Ab-wur-fwinkel, $\OML/cmm/m/it/9 g$\T1/cm
@@ -652,9 +653,8 @@ r/m/it/9 : Erdbeschle-u-ni-gung [m/s\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cm
 m/m/it/9 t$\T1/cmr/m/it/9 : Zeit [s],
  []
 
-[6 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025
--06-11 um 19.43.11.png>]
-Overfull \hbox (5.80766pt too wide) in paragraph at lines 386--386
+
+Overfull \hbox (5.80766pt too wide) in paragraph at lines 389--389
 [] $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeit [m/s], $\OML/
 cmm/m/it/9 $\T1/cmr/m/it/9 : Ab-wur-fwinkel über der Hor-i-zon-talen [\TS1/cmr
 /m/it/9 ° \T1/cmr/m/it/9 oder rad], $\OML/cmm/m/it/9 g$\T1/cmr/m/it/9 : Erdbesc
@@ -662,7 +662,7 @@ hle-u-ni-gung (ca.
  []
 
 
-Overfull \hbox (12.13889pt too wide) in paragraph at lines 386--386
+Overfull \hbox (12.13889pt too wide) in paragraph at lines 389--389
 \T1/cmr/m/it/9 9.81 m/s$[]$), $\OML/cmm/m/it/9 t$\T1/cmr/m/it/9 : Flugzeit bis 
 zum Auftr-e-f-fen [s], $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : Hor-i-zon-tale Ges
 chwindigkeit beim Auftr-e-f-fen [m/s], $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : Ve
@@ -670,23 +670,24 @@ r-tikale
  []
 
 
-Overfull \hbox (7.32916pt too wide) in paragraph at lines 386--386
+Overfull \hbox (7.32916pt too wide) in paragraph at lines 389--389
 \T1/cmr/m/it/9 Geschwindigkeit beim Auftr-e-f-fen [m/s], $\OML/cmm/m/it/9 ^^L$\
 T1/cmr/m/it/9 : Auftr-e-f-fwinkel unter der Hor-i-zon-talen [\TS1/cmr/m/it/9 ° 
 \T1/cmr/m/it/9 oder rad], $\OML/cmm/m/it/9 v$\T1/cmr/m/it/9 : Be-trag der Auftr
 -
  []
 
-
-Overfull \hbox (7.30939pt too wide) in paragraph at lines 397--397
+[7 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025
+-06-11 um 19.43.11.png>]
+Overfull \hbox (7.30939pt too wide) in paragraph at lines 400--400
 [] $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 x\OT1/cmr/m/n/9 )$\T1/cmr/
 m/it/9 : Höhe in Ab-hängigkeit vom hor-i-zon-talen Ort $\OML/cmm/m/it/9 x$ \T1/
 cmr/m/it/9 [m], $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 : An-fang-shöhe [m], $\OML/
 cmm/m/it/9 v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeit [m/s],
  []
 
-[7]
-Overfull \hbox (0.722pt too wide) in paragraph at lines 459--459
+[8]
+Overfull \hbox (0.722pt too wide) in paragraph at lines 462--462
 [] $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9 : rel-a-tivis-tis-che Masse [kg], $\OML/cm
 m/m/it/9 m[]$\T1/cmr/m/it/9 : Ruhe-masse [kg], $\OML/cmm/m/it/9 v$\T1/cmr/m/it/
 9 : Geschwindigkeit [m/s], $\OML/cmm/m/it/9 c$\T1/cmr/m/it/9 : Licht-geschwindi
@@ -694,17 +695,17 @@ gkeit [m/s] []
  []
 
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.02.41.png, id=52, 279.0425pt x 189.70876pt>
+-11 um 20.02.41.png, id=56, 279.0425pt x 189.70876pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.02.41.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.02.41.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.02.41.png  used on input line 486.
+s/Bildschirmfoto 2025-06-11 um 20.02.41.png  used on input line 489.
 (pdftex.def)             Requested size: 139.5209pt x 94.85414pt.
-[8 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025
+[9 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025
 -06-11 um 20.02.41.png>]
-Overfull \hbox (9.35109pt too wide) in paragraph at lines 533--533
+Overfull \hbox (9.35109pt too wide) in paragraph at lines 536--536
 [] $\OML/cmm/m/it/9 F[]$\T1/cmr/m/it/9 : Hangab-trieb-skraft [N], $\OML/cmm/m/i
 t/9 F[]$\T1/cmr/m/it/9 : Nor-malkraft [N], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9 : 
 Masse [kg], $\OML/cmm/m/it/9 g$\T1/cmr/m/it/9 : Erdbeschle-u-ni-gung [m/s\TS1/c
@@ -713,33 +714,33 @@ l
  []
 
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.08.02.png, id=60, 412.54124pt x 235.88126pt>
+-11 um 20.08.02.png, id=63, 412.54124pt x 235.88126pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.08.02.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.08.02.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.08.02.png  used on input line 535.
+s/Bildschirmfoto 2025-06-11 um 20.08.02.png  used on input line 538.
 (pdftex.def)             Requested size: 206.27011pt x 117.94034pt.
 
-Overfull \hbox (7.73062pt too wide) in paragraph at lines 548--548
+Overfull \hbox (7.73062pt too wide) in paragraph at lines 551--551
 [] $\OML/cmm/m/it/9 F[]$\T1/cmr/m/it/9 : Zugkraft an der Feder [N], $\OML/cmm/m
 /it/9 F[]$\T1/cmr/m/it/9 : Rück-stel-lkraft der Feder [N], $\OML/cmm/m/it/9 K[]
 $\T1/cmr/m/it/9 : Fed-erkon-stante [N/m], $\OML/cmm/m/it/9 x$\T1/cmr/m/it/9 : A
 uslenkung
  []
 
-[9 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025
--06-11 um 20.08.02.png>]
-Overfull \hbox (39.97331pt too wide) in paragraph at lines 558--558
+
+Overfull \hbox (39.97331pt too wide) in paragraph at lines 561--561
 [] $[]$\T1/cmr/m/it/9 : Zen-tripetalkraft [N], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/
 9 : Masse [kg], $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Winkelgeschwindigkeit [rad/
 s], $[]$: Ra-diusvek-tor [m], $\OML/cmm/m/it/9 v$\T1/cmr/m/it/9 : Bah-ngeschwin
 digkeit
  []
 
-
-Overfull \hbox (61.12148pt too wide) in paragraph at lines 572--572
+[10 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
+5-06-11 um 20.08.02.png>]
+Overfull \hbox (61.12148pt too wide) in paragraph at lines 575--575
 [] $\OML/cmm/m/it/9 F[]$\T1/cmr/m/it/9 : Luftwider-stand [N], $\OML/cmm/m/it/9 
 c[]$\T1/cmr/m/it/9 : Wider-stands-bei-w-ert, $\OML/cmm/m/it/9 ^^Z$\T1/cmr/m/it/
 9 : Dichte der Luft [kg/m\TS1/cmr/m/it/9 ³\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 A$
@@ -748,84 +749,78 @@ L/cmm/m/it/9 v$\T1/cmr/m/it/9 : Geschwindigkeit
  []
 
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.09.07.png, id=65, 638.385pt x 193.72375pt>
+-11 um 20.09.07.png, id=68, 638.385pt x 193.72375pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.09.07.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.09.07.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.09.07.png  used on input line 574.
+s/Bildschirmfoto 2025-06-11 um 20.09.07.png  used on input line 577.
 (pdftex.def)             Requested size: 319.19171pt x 96.86163pt.
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.12.58.png, id=66, 489.83pt x 449.68pt>
+-11 um 20.12.58.png, id=69, 489.83pt x 449.68pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.12.58.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.12.58.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.12.58.png  used on input line 612.
+s/Bildschirmfoto 2025-06-11 um 20.12.58.png  used on input line 615.
 (pdftex.def)             Requested size: 97.96426pt x 89.9344pt.
-[10 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
-5-06-11 um 20.09.07.png>]
+[11 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
+5-06-11 um 20.09.07.png> </Users/cematas/Documents/Physik/Formelsammlung 2/Imag
+es/Bildschirmfoto 2025-06-11 um 20.12.58.png>]
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.15.48.png, id=71, 801.99625pt x 237.88875pt>
+-11 um 20.15.48.png, id=75, 801.99625pt x 237.88875pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.15.48.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.15.48.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.15.48.png  used on input line 650.
+s/Bildschirmfoto 2025-06-11 um 20.15.48.png  used on input line 655.
 (pdftex.def)             Requested size: 160.39641pt x 47.5769pt.
 
-Overfull \hbox (0.39047pt too wide) in paragraph at lines 659--659
+Overfull \hbox (0.39047pt too wide) in paragraph at lines 664--664
 [] $\OML/cmm/m/it/9 X[]$\T1/cmr/m/it/9 : Massen-mit-telpunkt [m], $\OML/cmm/m/i
 t/9 m[]$\T1/cmr/m/it/9 : Masse des Teilchens [kg], $[]$: Ort des Teilchens [m],
  $\OML/cmm/m/it/9 m[]$\T1/cmr/m/it/9 : Gesamt-masse [kg] [] 
  []
 
-[11 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
-5-06-11 um 20.12.58.png> </Users/cematas/Documents/Physik/Formelsammlung 2/Imag
-es/Bildschirmfoto 2025-06-11 um 20.15.48.png>]
-Overfull \hbox (6.34329pt too wide) in paragraph at lines 717--717
+[12 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
+5-06-11 um 20.15.48.png>]
+Overfull \hbox (6.34329pt too wide) in paragraph at lines 722--722
 [] $\OML/cmm/m/it/9 W[]$\T1/cmr/m/it/9 : Beschle-u-ni-gungsar-beit [J], $\OML/c
 mm/m/it/9 F[]$\T1/cmr/m/it/9 : Beschle-u-ni-gende Kraft [N], $\OT1/cmr/m/n/9 ^^
 A\OML/cmm/m/it/9 x$\T1/cmr/m/it/9 : Weg [m], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9 
 : Masse [kg], $\OML/cmm/m/it/9 a$\T1/cmr/m/it/9 : Beschle-u-ni-gung
  []
 
-
-Overfull \hbox (19.00977pt too wide) in paragraph at lines 730--730
-[]\T1/cmr/bx/n/14.4 Verrichtete Ar-beit bei ger-adlin-iger Be-we-gung mit ortsa
-b-hängiger
- []
-
-[12] [13]
-Overfull \hbox (1.1169pt too wide) in paragraph at lines 795--795
+[13]
+Overfull \hbox (1.1169pt too wide) in paragraph at lines 802--802
  $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Gesamte mech-a-nis-che En-ergie [J], $\O
 ML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Po-ten-tielle En-ergie [J], $\OML/cmm/m/it/9
  E[]$\T1/cmr/m/it/9 : Kinetis-che En-ergie [J], $\OML/cmm/m/it/9 m$\T1/cmr/m/it
 /9 : Masse
  []
 
-[14]
-Overfull \hbox (4.83356pt too wide) in paragraph at lines 887--887
+[14] [15]
+Overfull \hbox (4.83356pt too wide) in paragraph at lines 894--894
 [] $\OML/cmm/m/it/9 v[]; v[]$\T1/cmr/m/it/9 : Endgeschwindigkeiten nach dem Sto
 ÿ [m/s], $\OML/cmm/m/it/9 m[]; m[]$\T1/cmr/m/it/9 : Massen [kg], $\OML/cmm/m/it
 /9 v[]; v[]$\T1/cmr/m/it/9 : An-fangs-geschwindigkeiten [m/s]
  []
 
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 19.59.09.png, id=88, 237.88875pt x 208.78pt>
+-11 um 19.59.09.png, id=91, 237.88875pt x 208.78pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 19.59.09.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 19.59.09.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 19.59.09.png  used on input line 917.
+s/Bildschirmfoto 2025-06-11 um 19.59.09.png  used on input line 924.
 (pdftex.def)             Requested size: 118.94408pt x 104.38972pt.
-[15] [16 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfot
+[16] [17 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfot
 o 2025-06-11 um 19.59.09.png>]
-Overfull \hbox (4.66132pt too wide) in paragraph at lines 986--986
+Overfull \hbox (4.66132pt too wide) in paragraph at lines 993--993
 [] $\OML/cmm/m/it/9 a[]$\T1/cmr/m/it/9 : Zen-tripetalbeschle-u-ni-gung [m/s\TS1
 /cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 r$\T1/cmr/m/it/9 : Ra-dius [m],
  $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Winkelgeschwindigkeit [rad/s], $\OML/cmm/m
@@ -833,7 +828,7 @@ Overfull \hbox (4.66132pt too wide) in paragraph at lines 986--986
  []
 
 
-Overfull \hbox (12.89084pt too wide) in paragraph at lines 1002--1002
+Overfull \hbox (12.89084pt too wide) in paragraph at lines 1009--1009
 [] $\OML/cmm/m/it/9 '\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/
 m/it/9 : Winkel [rad], $\OML/cmm/m/it/9 '[]$\T1/cmr/m/it/9 : An-fangswinkel [ra
 d], $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : An-fangswinkelgeschwindigkeit [rad/s], 
@@ -841,7 +836,7 @@ $\OML/cmm/m/it/9 $\T1/cmr/m/it/9 : kon-stante Winkelbeschle-
  []
 
 
-Overfull \hbox (17.54942pt too wide) in paragraph at lines 1017--1017
+Overfull \hbox (17.54942pt too wide) in paragraph at lines 1024--1024
 [] $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Winkelgeschwindigkeit [rad/s], $\OML/cmm
 /m/it/9 ![]$\T1/cmr/m/it/9 : An-fangswinkelgeschwindigkeit [rad/s], $\OML/cmm/m
 /it/9 $\T1/cmr/m/it/9 : Winkelbeschle-u-ni-gung [rad/s\TS1/cmr/m/it/9 ²\T1/cmr
@@ -849,27 +844,29 @@ Overfull \hbox (17.54942pt too wide) in paragraph at lines 1017--1017
  []
 
 
-Overfull \hbox (3.244pt too wide) in paragraph at lines 1028--1028
+Overfull \hbox (3.244pt too wide) in paragraph at lines 1035--1035
  $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Ro-ta-tion-sen-ergie [J], $\OML/cmm/m/it
 /9 m[]$\T1/cmr/m/it/9 : Masse [kg], $\OML/cmm/m/it/9 r[]$\T1/cmr/m/it/9 : Ab-st
 and zur Drehachse [m], $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Winkelgeschwindigkei
 t [rad/s], $\OML/cmm/m/it/9 I$\T1/cmr/m/it/9 :
  []
 
-</Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf, id=96, 
+</Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf, id=99, 
 661.47125pt x 668.4975pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf Gra
 phic file (type pdf)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Vergleich.pdf  used on input line 1032.
+s/Vergleich.pdf  used on input line 1038.
 (pdftex.def)             Requested size: 455.24411pt x 460.07031pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (15.0pt too wide) in paragraph at lines 1038--1039
+[][] 
+ []
 
-[17] [18 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf
->] [19]
-Overfull \hbox (5.14726pt too wide) in paragraph at lines 1131--1131
+[18] [19 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Vergleich.pdf
+>] [20]
+Overfull \hbox (5.14726pt too wide) in paragraph at lines 1138--1138
 [] $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Kinetis-che En-ergie der Ro-ta-tion [J
 ], $\OML/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : Trägheitsmo-ment um Schw-er-punk-tachs
 e [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/
@@ -877,28 +874,28 @@ cmm/m/it/9 I[]$\T1/cmr/m/it/9 : Trägheitsmo-
  []
 
 
-Overfull \hbox (24.47891pt too wide) in paragraph at lines 1164--1164
+Overfull \hbox (24.47891pt too wide) in paragraph at lines 1171--1171
 [] $\OML/cmm/m/it/9 a[]$\T1/cmr/m/it/9 : Tan-gen-tialbeschle-u-ni-gung [m/s\TS1
 /cmr/m/it/9 ²\T1/cmr/m/it/9 ], $[]$: Winkelbeschle-u-ni-gung [rad/s\TS1/cmr/m/i
 t/9 ²\T1/cmr/m/it/9 ], $[]$: Ra-diusvek-tor [m], $[]$: Kraft [N], $\OML/cmm/m/i
 t/9 m$\T1/cmr/m/it/9 : Masse
  []
 
-[20]
-Overfull \hbox (3.36713pt too wide) in paragraph at lines 1190--1190
+[21]
+Overfull \hbox (3.36713pt too wide) in paragraph at lines 1197--1197
  \T1/cmr/m/it/9 Statis-che Be-din-gun-gen: keine Beschle-u-ni-gung, keine Winke
 lbeschle-u-ni-gung. Kräfte- und Mo-menten-gle-ichgewicht.  
  []
 
 
-Overfull \hbox (2.51157pt too wide) in paragraph at lines 1190--1190
+Overfull \hbox (2.51157pt too wide) in paragraph at lines 1197--1197
 $[]$\T1/cmr/m/it/9 : re-sul-tierende Kraft [N], $[]$: Beschle-u-ni-gung [m/s\TS
 1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $[]$: Drehmo-ment [Nm], $[]$: Winkelbeschle-u-n
 i-gung [rad/s\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ] [] 
  []
 
-
-Overfull \hbox (25.02019pt too wide) in paragraph at lines 1203--1203
+[22]
+Overfull \hbox (25.02019pt too wide) in paragraph at lines 1211--1211
  $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Gesamten-ergie [J], $\OML/cmm/m/it/9 I[]
 $\T1/cmr/m/it/9 : Trägheitsmo-ment um Schw-er-punkt [kg\TS1/cmr/m/it/9 ·\T1/cmr
 /m/it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 :
@@ -906,15 +903,15 @@ $\T1/cmr/m/it/9 : Trägheitsmo-ment um Schw-er-punkt [kg\TS1/cmr/m/it/9 ·\T1/cmr
  []
 
 
-Overfull \hbox (17.6333pt too wide) in paragraph at lines 1221--1221
+Overfull \hbox (17.6333pt too wide) in paragraph at lines 1229--1229
 [] $\OML/cmm/m/it/9 E[]$\T1/cmr/m/it/9 : Po-ten-tielle En-ergie [J], $\OML/cmm/
 m/it/9 v[]$\T1/cmr/m/it/9 : Geschwindigkeit [m/s], $\OML/cmm/m/it/9 g$\T1/cmr/m
 /it/9 : Erdbeschle-u-ni-gung [m/s\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m
 /it/9 x$\T1/cmr/m/it/9 : zurück-gelegte Strecke [m],
  []
 
-[21]
-Overfull \hbox (38.50166pt too wide) in paragraph at lines 1236--1236
+
+Overfull \hbox (38.50166pt too wide) in paragraph at lines 1244--1244
  $\OML/cmm/m/it/9 L$\T1/cmr/m/it/9 : Drehim-puls [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/
 it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 /s], $\OML/cmm/m/it/9 I$\T1/cmr/m/it/9 : 
 Trägheitsmo-ment [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m
@@ -922,8 +919,8 @@ Trägheitsmo-ment [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/it/9 m\TS1/cmr/m/it/9 ²\T1/cmr/m
 $: Ort [m], $[]$: Im-puls [kg\TS1/cmr/m/it/9 ·\T1/cmr/m/it/9 m/s],
  []
 
-
-Overfull \hbox (6.75572pt too wide) in paragraph at lines 1267--1267
+[23]
+Overfull \hbox (6.75572pt too wide) in paragraph at lines 1277--1277
  $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/m/
 it/9 : Auslenkung [m], $\OML/cmm/m/it/9 v\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/
 cmr/m/n/9 )$\T1/cmr/m/it/9 : Geschwindigkeit [m/s], $\OML/cmm/m/it/9 a\OT1/cmr/
@@ -932,8 +929,8 @@ s\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Am-pli-
 tude [m], $\OML/cmm/m/it/9 ![]$\T1/cmr/m/it/9 : Kre-is-fre-
  []
 
-[22]
-Overfull \hbox (5.36568pt too wide) in paragraph at lines 1353--1353
+[24]
+Overfull \hbox (5.36568pt too wide) in paragraph at lines 1363--1363
 [] $\OML/cmm/m/it/9 ^^R\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cm
 r/m/it/9 : Winkel [rad], $\OML/cmm/m/it/9 s$\T1/cmr/m/it/9 : Ab-stand zur Dreha
 chse [m], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9 : Masse [kg], $\OML/cmm/m/it/9 g$\T
@@ -941,18 +938,18 @@ chse [m], $\OML/cmm/m/it/9 m$\T1/cmr/m/it/9 : Masse [kg], $\OML/cmm/m/it/9 g$\T
 L/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : Trägheitsmo-
  []
 
-[23]
+[25]
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.28.58.png, id=123, 617.30624pt x 472.76625pt>
+-11 um 20.28.58.png, id=130, 617.30624pt x 472.76625pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.28.58.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.28.58.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.28.58.png  used on input line 1369.
+s/Bildschirmfoto 2025-06-11 um 20.28.58.png  used on input line 1380.
 (pdftex.def)             Requested size: 123.45906pt x 94.55157pt.
 
-Overfull \hbox (3.9375pt too wide) in paragraph at lines 1380--1380
+Overfull \hbox (3.9375pt too wide) in paragraph at lines 1391--1391
 [] $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 t\OT1/cmr/m/n/9 )$\T1/cmr/
 m/it/9 : Auslenkung [m], $\OML/cmm/m/it/9 ^^N$\T1/cmr/m/it/9 : Abklingkon-stant
 e [1/s], $\OML/cmm/m/it/9 b$\T1/cmr/m/it/9 : Dämp-fungskon-stante [kg/s], $\OML
@@ -960,32 +957,31 @@ e [1/s], $\OML/cmm/m/it/9 b$\T1/cmr/m/it/9 : Dämp-fungskon-stante [kg/s], $\OML
 : ungedämpfte
  []
 
-</Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf, id=124, 661.4
+</Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf, id=131, 661.4
 7125pt x 569.12625pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf Graphic f
 ile (type pdf)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/DGL.pdf  used on input line 1404.
+s/DGL.pdf  used on input line 1415.
 (pdftex.def)             Requested size: 455.24411pt x 391.68149pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
-5-06-11 um 20.28.58.png>]
+[26 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
+5-06-11 um 20.28.58.png>] [27 </Users/cematas/Documents/Physik/Formelsammlung 2
+/Images/DGL.pdf>]
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.32.46.png, id=129, 481.8pt x 202.7575pt>
+-11 um 20.32.46.png, id=143, 481.8pt x 202.7575pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.32.46.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.32.46.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.32.46.png  used on input line 1443.
+s/Bildschirmfoto 2025-06-11 um 20.32.46.png  used on input line 1456.
 (pdftex.def)             Requested size: 144.5411pt x 60.82771pt.
- [25 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/DGL.pdf> </Users/
-cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06-11 um 2
-0.32.46.png>]
-Overfull \hbox (30.87477pt too wide) in paragraph at lines 1466--1466
+
+Overfull \hbox (30.87477pt too wide) in paragraph at lines 1479--1479
 [] $\OML/cmm/m/it/9 y\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 z; t\OT1/cmr/m/n/9 )$\T1/c
 mr/m/it/9 : Auslenkung [m], $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Am-pli-tude [m]
 , $\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Kre-is-fre-quenz [rad/s], $\OML/cmm/m/it/
@@ -994,7 +990,7 @@ mr/m/it/9 : Auslenkung [m], $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Am-pli-tude [m]
  []
 
 
-Overfull \hbox (6.67462pt too wide) in paragraph at lines 1498--1498
+Overfull \hbox (6.67462pt too wide) in paragraph at lines 1511--1511
 [] $\OML/cmm/m/it/9 c$\T1/cmr/m/it/9 : Phasen-geschwindigkeit [m/s], $\OML/cmm/
 m/it/9 F[]$\T1/cmr/m/it/9 : Spannkraft im Seil [N], $\OML/cmm/m/it/9 ^^V$\T1/cm
 r/m/it/9 : lin-eare Massendichte [kg/m], $\OML/cmm/m/it/9 ^^O[]$\T1/cmr/m/it/9 
@@ -1002,14 +998,15 @@ r/m/it/9 : lin-eare Massendichte [kg/m], $\OML/cmm/m/it/9 ^^O[]$\T1/cmr/m/it/9
  []
 
 
-Overfull \hbox (9.70297pt too wide) in paragraph at lines 1498--1498
+Overfull \hbox (9.70297pt too wide) in paragraph at lines 1511--1511
 \T1/cmr/m/it/9 kon-stante (Per-mit-tiv-ität des Vaku-ums) [F/m], $\OML/cmm/m/it
 /9 ^^V[]$\T1/cmr/m/it/9 : mag-netis-che Feld-kon-stante (Per-me-abil-ität des V
 aku-ums) [H/m],
  []
 
-[26]
-Overfull \hbox (3.86636pt too wide) in paragraph at lines 1521--1521
+[28 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
+5-06-11 um 20.32.46.png>]
+Overfull \hbox (3.86636pt too wide) in paragraph at lines 1536--1536
  $\OML/cmm/m/it/9 I\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 z\OT1/cmr/m/n/9 )\OML/cmm/m/
 it/9 ; I\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 r\OT1/cmr/m/n/9 )$\T1/cmr/m/it/9 : In-t
 en-sität [W/m$[]$], $\OML/cmm/m/it/9 P[]$\T1/cmr/m/it/9 : zeitlich gemit-telte 
@@ -1018,42 +1015,41 @@ Leis-tung [W], $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Fläche senkrecht zur Aus-bre
  []
 
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.33.27.png, id=142, 310.15875pt x 245.91875pt>
+-11 um 20.33.27.png, id=148, 310.15875pt x 245.91875pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.33.27.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.33.27.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.33.27.png  used on input line 1522.
+s/Bildschirmfoto 2025-06-11 um 20.33.27.png  used on input line 1537.
 (pdftex.def)             Requested size: 93.04834pt x 73.77618pt.
-
-Overfull \hbox (14.84503pt too wide) in paragraph at lines 1576--1576
+[29 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
+5-06-11 um 20.33.27.png>]
+Overfull \hbox (14.84503pt too wide) in paragraph at lines 1591--1591
  $\OML/cmm/m/it/9 ^^W[]$\T1/cmr/m/it/9 : Fre-quenz beim Empfänger [Hz], $\OML/c
 mm/m/it/9 ^^W[]$\T1/cmr/m/it/9 : Fre-quenz der Quelle [Hz], $\OML/cmm/m/it/9 V[
 ]$\T1/cmr/m/it/9 : Geschwindigkeit des Empfängers rel-a-tiv zum
  []
 
 
-Overfull \hbox (16.64995pt too wide) in paragraph at lines 1576--1576
+Overfull \hbox (16.64995pt too wide) in paragraph at lines 1591--1591
 \T1/cmr/m/it/9 Medium [m/s], $\OML/cmm/m/it/9 V[]$\T1/cmr/m/it/9 : Geschwindigk
 eit der Quelle rel-a-tiv zum Medium [m/s], $\OML/cmm/m/it/9 c$\T1/cmr/m/it/9 : 
 Aus-bre-itungs-geschwindigkeit der Welle
  []
 
-[27 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
-5-06-11 um 20.33.27.png>]
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.38.57.png, id=147, 281.05pt x 262.9825pt>
+-11 um 20.38.57.png, id=153, 281.05pt x 262.9825pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.38.57.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.38.57.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.38.57.png  used on input line 1607.
+s/Bildschirmfoto 2025-06-11 um 20.38.57.png  used on input line 1622.
 (pdftex.def)             Requested size: 84.31564pt x 78.89534pt.
- [28 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
-25-06-11 um 20.38.57.png>]
-Overfull \hbox (15.22398pt too wide) in paragraph at lines 1689--1689
+[30 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
+5-06-11 um 20.38.57.png>]
+Overfull \hbox (15.22398pt too wide) in paragraph at lines 1704--1704
 [] $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 , $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 : 
 Einzelne Wellen-funk-tio-nen, $\OML/cmm/m/it/9 y$\T1/cmr/m/it/9 : re-sul-tieren
 de Welle, $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Am-pli-tude der Einzelsig-nale, $
@@ -1061,7 +1057,7 @@ de Welle, $\OML/cmm/m/it/9 A$\T1/cmr/m/it/9 : Am-pli-tude der Einzelsig-nale, $
  []
 
 
-Overfull \hbox (14.79698pt too wide) in paragraph at lines 1703--1703
+Overfull \hbox (14.79698pt too wide) in paragraph at lines 1718--1718
 [] $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : Grup-pengeschwindigkeit [m/s], $\OT1/c
 mr/m/n/9 ^^A\OML/cmm/m/it/9 !$\T1/cmr/m/it/9 : Än-derung der Kre-is-fre-quenz [
 rad/s], $\OT1/cmr/m/n/9 ^^A\OML/cmm/m/it/9 k$\T1/cmr/m/it/9 : Än-derung der Wel
@@ -1069,29 +1065,29 @@ len-zahl [1/m],
  []
 
 
-Overfull \hbox (42.33391pt too wide) in paragraph at lines 1718--1718
+Overfull \hbox (42.33391pt too wide) in paragraph at lines 1733--1733
 [] $\OML/cmm/m/it/9 v[]$\T1/cmr/m/it/9 : Phasen-geschwindigkeit [m/s], $[]$: mi
 t-tlere Kre-is-fre-quenz [rad/s], $[]$: mit-tlere Wellen-zahl [1/m], $\OML/cmm/
 m/it/9 c$\T1/cmr/m/it/9 : Licht-geschwindigkeit
  []
 
-
-Overfull \hbox (11.27676pt too wide) in paragraph at lines 1738--1738
+[31]
+Overfull \hbox (11.27676pt too wide) in paragraph at lines 1753--1753
  $\OML/cmm/m/it/9 c$\T1/cmr/m/it/9 : Wellengeschwindigkeit auf dem Seil [m/s], 
 $\OML/cmm/m/it/9 F[]$\T1/cmr/m/it/9 : Seilkraft (Zugspan-nung) [N], $\OML/cmm/m
 /it/9 ^^V$\T1/cmr/m/it/9 : lin-eare Massendichte [kg/m], $\OML/cmm/m/it/9 m$\T1
 /cmr/m/it/9 :
  []
 
-[29]
-Overfull \hbox (1.02988pt too wide) in paragraph at lines 1759--1759
+
+Overfull \hbox (1.02988pt too wide) in paragraph at lines 1774--1774
 [] $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 : Am-pli-tude der re-flek-tierten Welle 
 [m], $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 : Am-pli-tude der trans-mit-tierten We
 lle [m], $\OML/cmm/m/it/9 y[]$\T1/cmr/m/it/9 : Am-pli-tude der ein-
  []
 
 
-Overfull \hbox (6.39478pt too wide) in paragraph at lines 1759--1759
+Overfull \hbox (6.39478pt too wide) in paragraph at lines 1774--1774
 \T1/cmr/m/it/9 fal-l-en-den Welle [m], $\OML/cmm/m/it/9 R$\T1/cmr/m/it/9 : Re-f
 lek-tion-sko-ef-fizient [^^U], $\OML/cmm/m/it/9 T$\T1/cmr/m/it/9 : Trans-mis-si
 on-sko-ef-fizient [^^U], $\OML/cmm/m/it/9 c[]$\T1/cmr/m/it/9 , $\OML/cmm/m/it/9
@@ -1099,7 +1095,7 @@ on-sko-ef-fizient [^^U], $\OML/cmm/m/it/9 c[]$\T1/cmr/m/it/9 , $\OML/cmm/m/it/9
  []
 
 
-Overfull \hbox (9.91885pt too wide) in paragraph at lines 1785--1785
+Overfull \hbox (9.91885pt too wide) in paragraph at lines 1800--1800
 [] $\OML/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : In-ten-sität der re-flek-tierten Welle
  [W/m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\OML/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : I
 n-ten-sität der trans-mit-tierten Welle [W/m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], 
@@ -1107,7 +1103,7 @@ $\OML/cmm/m/it/9 I[]$\T1/cmr/m/it/9 : In-ten-sität der
  []
 
 
-Overfull \hbox (102.15776pt too wide) in paragraph at lines 1785--1785
+Overfull \hbox (102.15776pt too wide) in paragraph at lines 1800--1800
 \T1/cmr/m/it/9 ein-fal-l-en-den Welle [W/m\TS1/cmr/m/it/9 ²\T1/cmr/m/it/9 ], $\
 OML/cmm/m/it/9 ^^Z$\T1/cmr/m/it/9 : Re-flex-ion-s-grad [^^U], $\OML/cmm/m/it/9 
 ^^\$\T1/cmr/m/it/9 : Trans-mis-sion-s-grad [^^U], $\OML/cmm/m/it/9 R$\T1/cmr/m/
@@ -1116,27 +1112,26 @@ it/9 : Re-flek-tion-sko-ef-fizient [^^U], $\OML/cmm/m/it/9 c[]$\T1/cmr/m/it/9 ,
  []
 
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.41.01.png, id=155, 199.74625pt x 319.1925pt>
+-11 um 20.41.01.png, id=162, 199.74625pt x 319.1925pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.41.01.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.41.01.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.41.01.png  used on input line 1792.
+s/Bildschirmfoto 2025-06-11 um 20.41.01.png  used on input line 1807.
 (pdftex.def)             Requested size: 59.92433pt x 95.75848pt.
-[30 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
-5-06-11 um 20.41.01.png>]
+[32]
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.42.00.png, id=160, 298.11375pt x 213.79875pt>
+-11 um 20.42.00.png, id=166, 298.11375pt x 213.79875pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.42.00.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.42.00.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.42.00.png  used on input line 1812.
+s/Bildschirmfoto 2025-06-11 um 20.42.00.png  used on input line 1827.
 (pdftex.def)             Requested size: 89.43481pt x 64.1401pt.
 
-Overfull \hbox (5.37114pt too wide) in paragraph at lines 1836--1836
+Overfull \hbox (5.37114pt too wide) in paragraph at lines 1851--1851
 [] $\OML/cmm/m/it/9 L$\T1/cmr/m/it/9 : Länge des schwin-gen-den Medi-ums [m], $
 \OML/cmm/m/it/9 ^^U[]$\T1/cmr/m/it/9 : Wellen-länge der $\OML/cmm/m/it/9 n$\T1/
 cmr/m/it/9 -ten ste-hen-den Welle [m], $\OML/cmm/m/it/9 n$\T1/cmr/m/it/9 : Ord-
@@ -1144,98 +1139,98 @@ nung, $\OML/cmm/m/it/9 ^^W[]$\T1/cmr/m/it/9 : Fre-
  []
 
 
-Overfull \hbox (21.71674pt too wide) in paragraph at lines 1836--1836
+Overfull \hbox (21.71674pt too wide) in paragraph at lines 1851--1851
 \T1/cmr/m/it/9 quenz der $\OML/cmm/m/it/9 n$\T1/cmr/m/it/9 -ten Res-o-nanz [Hz]
 , $\OML/cmm/m/it/9 ^^W[]$\T1/cmr/m/it/9 : Grun-dres-o-nanzfre-quenz [Hz], $\OT1
 /cmr/m/n/9 ^^A[]$\T1/cmr/m/it/9 : Fre-quen-z-ab-stand be-nach-barter Res-o-nanz
 en [Hz],
  []
 
-
-Overfull \hbox (30.71283pt too wide) in paragraph at lines 1863--1863
+[33 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
+5-06-11 um 20.41.01.png> </Users/cematas/Documents/Physik/Formelsammlung 2/Imag
+es/Bildschirmfoto 2025-06-11 um 20.42.00.png>]
+Overfull \hbox (30.71283pt too wide) in paragraph at lines 1878--1878
  $\OML/cmm/m/it/9 C$\T1/cmr/m/it/9 : Aus-bre-itungs-geschwindigkeit der elek-tr
 o-mag-netis-chen Welle im Medium [m/s], $\OML/cmm/m/it/9 C[]$\T1/cmr/m/it/9 : L
 icht-geschwindigkeit im Vakuum
  []
 
 
-Overfull \hbox (4.26065pt too wide) in paragraph at lines 1863--1863
+Overfull \hbox (4.26065pt too wide) in paragraph at lines 1878--1878
 \T1/cmr/m/it/9 [m/s], $\OML/cmm/m/it/9 ^^V[]$\T1/cmr/m/it/9 : mag-netis-che Fel
 d-kon-stante (Per-me-abil-ität des Vaku-ums) [H/m], $\OML/cmm/m/it/9 ^^O[]$\T1/
 cmr/m/it/9 : elek-trische Feld-kon-stante (Per-mit-
  []
 
 
-Overfull \hbox (10.42174pt too wide) in paragraph at lines 1863--1863
+Overfull \hbox (10.42174pt too wide) in paragraph at lines 1878--1878
 \T1/cmr/m/it/9 tiv-ität des Vaku-ums) [F/m], $\OML/cmm/m/it/9 ^^V[]$\T1/cmr/m/i
 t/9 : rel-a-tive Per-me-abil-ität des Medi-ums [^^U], $\OML/cmm/m/it/9 ^^O[]$\T
 1/cmr/m/it/9 : rel-a-tive Per-mit-tiv-ität des Medi-ums [^^U],
  []
 
-[31 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
-5-06-11 um 20.42.00.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1872--1874
+
+Underfull \hbox (badness 10000) in paragraph at lines 1887--1889
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1876--1877
+Underfull \hbox (badness 10000) in paragraph at lines 1891--1892
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1879--1880
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1895
 
  []
 
 
-Overfull \hbox (16.79626pt too wide) in paragraph at lines 1894--1894
+Overfull \hbox (16.79626pt too wide) in paragraph at lines 1909--1909
  $\OML/cmm/m/it/9 ^^U[]$\T1/cmr/m/it/9 : Wellen-länge des Lichts im Medium [m],
  $\OML/cmm/m/it/9 C$\T1/cmr/m/it/9 : Licht-geschwindigkeit im Medium [m/s], $\O
 ML/cmm/m/it/9 C[]$\T1/cmr/m/it/9 : Licht-geschwindigkeit
  []
 
-
-Overfull \hbox (18.8732pt too wide) in paragraph at lines 1917--1917
+[34]
+Overfull \hbox (18.8732pt too wide) in paragraph at lines 1933--1933
  $\OML/cmm/m/it/9 n[]$\T1/cmr/m/it/9 : Brechungsin-dex des Medi-ums 1 [^^V], $\
 OML/cmm/m/it/9 n[]$\T1/cmr/m/it/9 : Brechungsin-dex des Medi-ums 2 [^^V], $\OML
 /cmm/m/it/9 ^^R[]$\T1/cmr/m/it/9 : Ein-fall-swinkel des Licht-strahls
  []
 
 
-Overfull \hbox (39.23848pt too wide) in paragraph at lines 1929--1929
+Overfull \hbox (39.23848pt too wide) in paragraph at lines 1945--1945
 [] $\OML/cmm/m/it/9 ^^R[]$\T1/cmr/m/it/9 : Ein-fall-swinkel des Licht-strahls r
 el-a-tiv zur Lotrechten [rad], $\OML/cmm/m/it/9 ^^R[]$\T1/cmr/m/it/9 : Re-flex-
 ion-swinkel des Licht-strahls rel-a-tiv zur Lotrechten
  []
 
-[32]
 
-LaTeX Warning: Command \textacutedbl invalid in math mode on input line 1941.
+LaTeX Warning: Command \textacutedbl invalid in math mode on input line 1957.
 
 
-LaTeX Warning: Command \textacutedbl invalid in math mode on input line 1941.
+LaTeX Warning: Command \textacutedbl invalid in math mode on input line 1957.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no ‚ in font cmr7!
 Missing character: There is no ‚ in font cmr5!
 
-Overfull \hbox (12.25478pt too wide) in paragraph at lines 1949--1949
+Overfull \hbox (12.25478pt too wide) in paragraph at lines 1965--1965
 [] $\OML/cmm/m/it/9 ^^R[]$\T1/cmr/m/it/9 : Gren-zwinkel für To-tal-re-flex-ion 
 (Ein-fall-swinkel im op-tisch dichteren Medium) [rad], $\OML/cmm/m/it/9 ^^R[]$\
 T1/cmr/m/it/9 : Brechungswinkel im op-
  []
 
-
-Overfull \hbox (34.11359pt too wide) in paragraph at lines 1964--1964
+[35]
+Overfull \hbox (34.11359pt too wide) in paragraph at lines 1981--1981
  $\OML/cmm/m/it/9 ^^R$\T1/cmr/m/it/9 : Ein-fall-swinkel des Licht-strahls rel-a
 -tiv zur Lotrechten [rad], $\OML/cmm/m/it/9 ^^R[]$\T1/cmr/m/it/9 : Re-flex-ion-
 swinkel des Licht-strahls rel-a-tiv zur Lotrechten
  []
 
 
-Overfull \hbox (29.19896pt too wide) in paragraph at lines 1982--1982
+Overfull \hbox (29.19896pt too wide) in paragraph at lines 1999--1999
 [] $\OML/cmm/m/it/9 g$\T1/cmr/m/it/9 : Gegen-standsweite [m], $\OML/cmm/m/it/9 
 b$\T1/cmr/m/it/9 : Bild-weite [m], $\OML/cmm/m/it/9 f$\T1/cmr/m/it/9 : Bren-nwe
 ite [m], $\OML/cmm/m/it/9 r$\T1/cmr/m/it/9 : Krüm-mungsra-dius [m], $\OML/cmm/m
@@ -1244,16 +1239,17 @@ gen-
  []
 
 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 2025-06
--11 um 20.43.33.png, id=169, 629.35126pt x 716.6775pt>
+-11 um 20.43.33.png, id=178, 629.35126pt x 716.6775pt>
 File: /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 20
 25-06-11 um 20.43.33.png Graphic file (type png)
 <use /Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
 5-06-11 um 20.43.33.png>
 Package pdftex.def Info: /Users/cematas/Documents/Physik/Formelsammlung 2/Image
-s/Bildschirmfoto 2025-06-11 um 20.43.33.png  used on input line 1986.
+s/Bildschirmfoto 2025-06-11 um 20.43.33.png  used on input line 2003.
 (pdftex.def)             Requested size: 188.80682pt x 215.00491pt.
-[33]
-Overfull \hbox (4.30794pt too wide) in paragraph at lines 2049--2049
+[36 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
+5-06-11 um 20.43.33.png>]
+Overfull \hbox (4.30794pt too wide) in paragraph at lines 2077--2077
 [] $\OML/cmm/m/it/9 g$\T1/cmr/m/it/9 : Gegen-standsweite [m], $\OML/cmm/m/it/9 
 b$\T1/cmr/m/it/9 : Bild-weite [m], $\OML/cmm/m/it/9 f$\T1/cmr/m/it/9 : Bren-nwe
 ite [m], $\OML/cmm/m/it/9 n$\T1/cmr/m/it/9 : Brechungsin-dex des Lin-sen-ma-te-
@@ -1261,25 +1257,24 @@ ri-als, $\OML/cmm/m/it/9 n[][]$\T1/cmr/m/it/9 :
  []
 
 
-Overfull \hbox (18.36008pt too wide) in paragraph at lines 2049--2049
+Overfull \hbox (18.36008pt too wide) in paragraph at lines 2077--2077
 \T1/cmr/m/it/9 Brechungsin-dex von Luft ($\OMS/cmsy/m/n/9 ^^Y \OT1/cmr/m/n/9 1$
 \T1/cmr/m/it/9 ), $\OML/cmm/m/it/9 r[]; r[]$\T1/cmr/m/it/9 : Krüm-mungsra-dien 
 der Lin-sen-flächen [m], $\OML/cmm/m/it/9 B$\T1/cmr/m/it/9 : Bild-gröÿe [m], $\
 OML/cmm/m/it/9 G$\T1/cmr/m/it/9 : Gegen-stands-
  []
 
-[34 </Users/cematas/Documents/Physik/Formelsammlung 2/Images/Bildschirmfoto 202
-5-06-11 um 20.43.33.png>] (./document.aux)
+[37] (./document.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14542 strings out of 474116
- 294518 string characters out of 5743683
- 1939187 words of memory out of 5000000
- 36635 multiletter control sequences out of 15000+600000
+ 14541 strings out of 474116
+ 294504 string characters out of 5743683
+ 1941187 words of memory out of 5000000
+ 36634 multiletter control sequences out of 15000+600000
  573240 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,8n,107p,408b,236s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1306,10 +1301,10 @@ ist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2024/texmf-dis
 t/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/
 fonts/type1/public/cm-super/sfti0600.pfb></usr/local/texlive/2024/texmf-dist/fo
 nts/type1/public/cm-super/sfti0900.pfb>
-Output written on document.pdf (34 pages, 2394979 bytes).
+Output written on document.pdf (37 pages, 2396763 bytes).
 PDF statistics:
- 279 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
+ 291 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
